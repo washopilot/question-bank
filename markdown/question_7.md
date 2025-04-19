@@ -1,14 +1,18 @@
 ---
-type: conocimiento
+type: conocimiento  
 ---
 
-Ordene los siguientes pasos para resolver una expresión trigonométrica:
+¿Cuál es el orden correcto para resolver una expresión trigonométrica?
+Ordena los siguientes pasos de forma lógica:
 
-1. Reescribir la expresión en términos de seno y coseno
-2. Aplicar identidades recíprocas
-3. Combinar fracciones usando común denominador
-4. Aplicar identidades pitagóricas
-5. Simplificar la expresión final
+1. Aplicar identidades pitagóricas  
+2. Simplificar la expresión final  
+3. Aplicar identidades recíprocas  
+4. Reescribir la expresión en términos de seno y coseno  
+5. Combinar fracciones usando común denominador
 
-**Respuesta correcta:** 1, 2, 3, 4, 5  
-**Retroalimentación:** El proceso correcto comienza por expresar todo en términos fundamentales (#1), luego aplicar identidades recíprocas (#2) para uniformizar, combinar términos (#3), usar identidades pitagóricas (#4) cuando sea necesario, y finalmente simplificar (#5) para obtener el resultado más reducido. Este orden sistemático garantiza que no se omitan pasos esenciales y se apliquen correctamente las propiedades trigonométricas.
+**Respuesta correcta:**  
+$4 \rightarrow 3 \rightarrow 5 \rightarrow 1 \rightarrow 2$
+
+**Retroalimentación:**  
+El procedimiento adecuado para resolver una expresión trigonométrica inicia con *reescribir todo en términos de funciones fundamentales*, como $\sin(x)$ y $\cos(x)$ (*Paso 4*). Luego, se deben aplicar *identidades recíprocas*, como $\csc(x) = \dfrac{1}{\sin(x)}$ (*Paso 3*), lo cual ayuda a uniformar la notación. Posteriormente, se *combinan fracciones* utilizando un denominador común (*Paso 5*), y si es necesario, se emplean las *identidades pitagóricas*, por ejemplo: $\sin^2(x) + \cos^2(x) = 1$ (*Paso 1*). Finalmente, se procede a *simplificar la expresión* lo más posible (*Paso 2*). Seguir este orden ayuda a evitar errores y facilita el proceso de simplificación.
