@@ -1,0 +1,24 @@
+**ANÁLISIS (Taxonomía de Bloom):**
+
+Analice las siguientes afirmaciones sobre la función $f(x) = 2\sin(3x - \frac{\pi}{4}) + 1$:
+
+I. La amplitud es $2$  
+II. El periodo es $\frac{2\pi}{3}$  
+III. El desplazamiento de fase es $\frac{\pi}{12}$ a la derecha  
+IV. El desplazamiento vertical es $+1$  
+
+¿Cuáles afirmaciones son correctas?
+
+1. Solo I y II  
+2. Solo I, II y III  
+3. Solo I, II y IV  
+4. Todas (I, II, III y IV)  
+
+**Respuesta correcta:** 4  
+**Retroalimentación:**  
+Análisis detallado:
+- Amplitud: $|2| = 2$ (I correcta)  
+- Periodo: $\frac{2\pi}{3}$ (II correcta)  
+- Fase: $-\frac{\pi}{4} \rightarrow$ desplazamiento de $\frac{\pi}{12}$ a la derecha (III correcta)  
+- Desplazamiento vertical: $+1$ (IV correcta)  
+Este análisis requiere comprender cómo cada parámetro afecta la gráfica de la función senoidal.

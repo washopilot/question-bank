@@ -1,0 +1,18 @@
+**COMPRENSIÓN (Taxonomía de Bloom):**
+
+Relacione cada método (Columna A) con su uso (Columna B):
+
+| Columna A               | Columna B                          |
+|-------------------------|------------------------------------|
+| 1. Ley de cosenos       | a. Resolver triángulos con AAL/ALA |
+| 2. Método circunferencia unitaria | b. Calcular lados con LAL/LLL |
+| 3. Ley de senos         | c. Definir funciones para números reales |
+
+**Respuesta correcta:**  
+1-b, 2-c, 3-a
+
+**Retroalimentación:**  
+Aplicaciones según el texto guía:
+- Ley de cosenos: útil con lados y ángulo incluido (LAL) o tres lados (LLL)
+- Circunferencia unitaria: extiende trigonometría más allá de ángulos
+- Ley de senos: ideal cuando se conocen ángulos y un lado opuesto

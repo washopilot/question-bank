@@ -1,0 +1,3898 @@
+Vicerrectorado de Modalidad Abierta y a Distancia
+
+Sistemas de Conocimiento de Funciones
+Trigonométricas y su Didáctica
+Guía didáctica
+
+1
+
+UTPL
+
+Facultad Ciencias Sociales, Educación y Humanidades
+
+Sistemas de Conocimiento de Funciones
+Trigonométricas y su Didáctica
+Guía didáctica
+
+PAO
+Nivel
+
+Carrera
+
+Pedagogía de las Ciencias Experimentales (Pedagogía de las
+Matemáticas y la Física)
+
+IV
+
+Autora:
+Sonia Granda Sivisapa
+
+EDUC_2147
+
+2
+
+UTPL
+
+Universidad Técnica Particular de Loja
+Sistemas de Conocimiento de Funciones Trigonométricas y su Didáctica
+Guía didáctica
+Sonia Granda Sivisapa
+Diagramación y diseño digital
+Ediloja Cía. Ltda.
+Marcelino Champagnat s/n y París
+edilojacialtda@ediloja.com.ec
+www.ediloja.com.ec
+ISBN digital -978-9942-25-815-1
+Año de edición: mayo, 2020
+Edición: primera edición reestructurada en febrero 2025 (con un cambio del 25%)
+Loja-Ecuador
+
+Los contenidos de este trabajo están sujetos a una licencia internacional Creative Commons
+Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0). Usted es libre de Compartir — copiar y
+redistribuir el material en cualquier medio o formato. Adaptar — remezclar, transformar y construir a partir del
+material citando la fuente, bajo los siguientes términos: Reconocimiento- debe dar crédito de manera adecuada,
+brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma
+razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante. No
+Comercial-no puede hacer uso del material con propósitos comerciales. Compartir igual-Si remezcla,
+transforma o crea a partir del material, debe distribuir su contribución bajo la misma licencia del original. No
+puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier
+uso permitido por la licencia. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+3
+
+UTPL
+
+Índice
+1. Datos de información ................................................................................. 8
+1.1 Presentación de la asignatura ................................................................... 8
+1.2 Competencias genéricas de la UTPL ........................................................ 8
+1.3 Competencias del perfil profesional ......................................................... 8
+1.4 Problemática que aborda la asignatura ................................................... 9
+2. Metodología de aprendizaje ..................................................................... 11
+3. Orientaciones didácticas por resultados de aprendizaje .......................... 13
+Primer bimestre ........................................................................................... 13
+Resultado de aprendizaje 1: ......................................................................... 13
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 13
+Semana 1 ...................................................................................................... 14
+Unidad 1. Funciones trigonométricas: método de la circunferencia unitaria
+......................................................................................................................... 14
+1.1 La circunferencia unitaria ...................................................................... 14
+Actividades de aprendizaje recomendadas ................................................. 16
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 18
+Semana 2 ...................................................................................................... 18
+Unidad 1. Funciones trigonométricas: método de la circunferencia unitaria
+......................................................................................................................... 18
+1.2 Funciones trigonométricas de números reales.................................... 18
+Actividades de aprendizaje recomendadas ................................................. 23
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 25
+Semana 3 ...................................................................................................... 25
+Unidad 1. Funciones trigonométricas: método de la circunferencia unitaria
+......................................................................................................................... 25
+1.3 Gráficas trigonométricas ....................................................................... 25
+Actividad de aprendizaje recomendada ....................................................... 36
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 38
+
+4
+
+UTPL
+
+Semana 4 ...................................................................................................... 38
+Unidad 1. Funciones trigonométricas: método de la circunferencia unitaria
+......................................................................................................................... 38
+1.4 Modelado de movimiento armónico ..................................................... 38
+Actividades de aprendizaje recomendadas ................................................. 46
+Autoevaluación 1 ............................................................................................ 48
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 52
+Semana 5 ...................................................................................................... 52
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo ... 52
+2.1 Trigonometría de triángulos rectángulos ............................................. 52
+Actividades de aprendizaje recomendadas ................................................. 57
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 58
+Semana 6 ...................................................................................................... 58
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo ... 58
+2.2 Funciones trigonométricas de ángulos ................................................ 58
+Actividades de aprendizaje recomendadas ................................................. 64
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 66
+Semana 7 ...................................................................................................... 66
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo ... 66
+2.3 Funciones trigonométricas inversas y triángulos rectángulos ........... 66
+Actividades de aprendizaje recomendadas ................................................. 71
+Autoevaluación 2 ............................................................................................ 73
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 77
+Semana 8 ...................................................................................................... 77
+Actividades finales del bimestre ................................................................... 77
+Actividades de aprendizaje recomendadas ................................................. 78
+Segundo bimestre......................................................................................... 79
+Resultado de aprendizaje 1: ......................................................................... 79
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 79
+
+5
+
+UTPL
+
+Semana 9 ...................................................................................................... 79
+Unidad 3. La ley del seno y coseno ............................................................... 80
+3.1 La ley de los senos ................................................................................. 80
+Actividad de aprendizaje recomendada ....................................................... 86
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 88
+Semana 10 .................................................................................................... 88
+Unidad 3. La ley del seno y coseno ............................................................... 88
+3.2 La ley de los cosenos............................................................................. 88
+Actividades de aprendizaje recomendadas ................................................. 92
+Autoevaluación 3 ............................................................................................ 93
+Resultado de aprendizaje 2: ......................................................................... 97
+Contenidos, recursos y actividades de aprendizaje recomendadas............. 97
+Semana 11 .................................................................................................... 97
+Unidad 4. Trigonometría analítica ................................................................. 97
+4.1 Identidades trigonométricas ................................................................. 98
+Actividad de aprendizaje recomendada ....................................................... 99
+Contenidos, recursos y actividades de aprendizaje recomendadas........... 100
+Semana 12 .................................................................................................. 100
+Unidad 4. Trigonometría analítica ............................................................... 100
+4.2 Demostración de identidades trigonométricas .................................. 100
+Actividades de aprendizaje recomendadas ............................................... 101
+Contenidos, recursos y actividades de aprendizaje recomendadas........... 103
+Semana 13 .................................................................................................. 103
+Unidad 4. Trigonometría analítica ............................................................... 103
+4.3 Fórmulas de adición y sustracción ..................................................... 103
+Actividades de aprendizaje recomendadas ............................................... 105
+Contenidos, recursos y actividades de aprendizaje recomendadas........... 106
+Semana 14 .................................................................................................. 106
+Unidad 4. Trigonometría analítica ............................................................... 106
+
+6
+
+UTPL
+
+4.4 Fórmulas de ángulo doble, semiángulo y producto a suma ............. 106
+Actividad de aprendizaje recomendada ..................................................... 112
+Contenidos, recursos y actividades de aprendizaje recomendadas........... 113
+Semana 15 .................................................................................................. 113
+Unidad 4. Trigonometría analítica ............................................................... 113
+4.5 Ecuaciones trigonométricas básicas.................................................. 113
+Actividades de aprendizaje recomendadas ............................................... 115
+Autoevaluación 4 .......................................................................................... 117
+Contenidos, recursos y actividades de aprendizaje recomendadas........... 120
+Semana 16 .................................................................................................. 120
+Actividades finales del bimestre ................................................................. 120
+Actividades de aprendizaje recomendadas ............................................... 121
+4. Autoevaluaciones ................................................................................... 122
+5. Referencias bibliográficas ...................................................................... 128
+6. Anexos .................................................................................................... 129
+
+7
+
+UTPL
+
+1. Datos de información
+1.1 Presentación de la asignatura
+
+1.2 Competencias genéricas de la UTPL
+▪ Vivencia de los valores universales del humanismo de Cristo.
+▪ Pensamiento crítico y reflexivo.
+▪ Compromiso e implicación social.
+▪ Comportamiento ético.
+▪ Orientación a la innovación y a la investigación.
+▪ Comunicación oral y escrita.
+
+1.3 Competencias del perfil profesional
+▪ Diseñar, ejecutar, evaluar y orientar secuencias didácticas con elementos
+pedagógicos y curriculares orientados a los campos de la matemática y la
+física mediante la fundamentación teórico-práctico de los sistemas de
+conocimiento que, faciliten la adaptación a los cambios permanentes de la
+realidad actual y de un mundo globalizado. Identificar, diseñar e integrar los
+sistemas de conocimiento de la física y la matemática relacionados con el
+entorno natural y social de los estudiantes, aplicando metodologías y
+didácticas específicas que faciliten la contextualización de estas áreas con
+la realidad de un mundo globalizado y cambiante.
+8
+
+UTPL
+
+▪ Seleccionar, adaptar y aplicar herramientas tecnológicas apropiadas para el
+desarrollo de metodologías activas e innovadoras que faciliten la ejecución
+del proceso de enseñanza aprendizaje mediante talleres prácticoexperimentales permanentes, empleando contenidos contextualizados a la
+realidad estudiantil, nacional y mundial.
+▪ Seleccionar, adaptar, construir y aplicar criterios, indicadores, técnicas e
+instrumentos de evaluación idóneos para los procesos de enseñanza
+aprendizaje de la matemática y la física, considerando diferencias
+individuales, interculturales e inclusivas; integrando adecuadamente los
+elementos curriculares, conocimientos, estrategias y metodologías en
+función de la realidad natural y social del estudiante.
+▪ Diseñar, ejecutar y evaluar modelos pedagógicos y de organización escolar
+para brindar soluciones a las diferencias individuales, interculturales e
+inclusivas, mediante la adaptación de los elementos curriculares y
+contenidos con estrategias y metodologías adaptadas a la realidad de la
+comunidad.
+▪ Elaborar, ejecutar y evaluar proyectos y/o procesos de investigación que
+lleven a la recopilación, organización y análisis de información en el ámbito
+de las matemáticas y la física enfocados a la generación de nuevos
+conocimientos, habilidades y actitudes que aporten a la solución de
+problemas prácticos de su comunidad. Desarrollar, ejecutar y difundir
+proyectos pedagógicos y didácticos con metodologías activas e
+innovadoras, involucrando la matemática y la física, vinculados a la
+solución de problemas de la realidad y que apoyen la integración de los
+docentes con el entorno natural y social de la comunidad y del país en
+general.
+
+1.4 Problemática que aborda la asignatura
+El limitado conocimiento en el campo del modelado, con funciones en general
+y trigonométricas en particular, no facilita la solución de los problemas del
+entorno natural y social, ocasionando un conocimiento teórico apartado de la
+realidad del estudiante.
+
+9
+
+UTPL
+
+El escaso uso de herramientas tecnológicas no permite practicar la
+matemática experimentalmente a través de herramientas gratuitas que están
+al alcance de todos, dificultando el logro de aprendizajes significativos.
+A través del análisis y aplicación de la modelización con las funciones
+trigonométricas se aborda el objeto de estudio y naturaleza de la matemática,
+lo cual favorece para que esta ciencia se convierta en una herramienta
+primordial para el estudio de otras ciencias y un pilar para el desarrollo del
+pensamiento formal del estudiante.
+La didáctica aplicada en la enseñanza de los conocimientos de matemática se
+enfoca al desarrollo de conceptos de manera teórica y textual, sin considerar
+que el aprendizaje deber ser experimental, partiendo de la manipulación de un
+material concreto, explorando detalles conceptuales que permiten plantear
+inquietudes, comunicando los aportes a otros estudiantes y docente, y
+verbalizando sus conclusiones matemáticas.
+
+10
+
+UTPL
+
+2. Metodología de aprendizaje
+Con la finalidad de hacer que el estudio de la asignatura Sistemas de
+Conocimiento de Funciones Trigonométricas y su Didáctica, se convierta en
+una experiencia de aprendizaje permanente, se diseñan actividades y
+estrategias fundamentadas en una metodología activa, en donde los
+estudiantes acceden a los aspectos iniciales de la conceptualización teórica
+viendo micro videos y accediendo a recursos planteados en la EVA, mientras
+que el trabajo en contacto con el docente se convierte en un taller de
+aplicación, dando el enfoque experimental en esta segunda parte, de tal
+manera que, se consolidan los aprendizajes de manera experimental, apoyado
+en videoconferencias semanales que serán grabadas para aquellos
+estudiantes que no pudieron participar en línea.
+Aunque no existe un procedimiento único, el estudio de este curso se
+fundamenta en el uso de la bibliografía sugerida, recursos abiertos en línea y
+microvideos, complementados con herramientas como cuestionarios
+interactivos e infografías. Se recomienda anticipar el estudio de los aspectos
+teóricos, los cuales serán consolidados posteriormente mediante la práctica
+experimental.
+El desarrollo de los aportes, principalmente cuantificados, contará en algunos
+casos con la presencia física del profesor y, en su mayoría, con el apoyo de
+videoconferencias. Además, se fomentará el trabajo colaborativo, teniendo en
+cuenta los distintos estilos de aprendizaje y enfocándose en la consecución de
+resultados que orienten el desarrollo de las competencias.
+Cada concepto partirá de la manipulación de material concreto, permitiendo
+así una exploración progresiva que facilite su comprensión y aplicación.
+Observar situaciones de aprendizaje que posibilitan la comunicación entre
+compañeros y el profesor, finalizando con la verbalización en los escritos de
+aportes y conclusiones, todo este procedimiento relacionado con una
+11
+
+UTPL
+
+metodología activa ABP. Para profundizar sobre los fundamentos que orientan
+esta metodología de aprendizaje, la invitación para acceder a través de
+metodología activa ABP.
+
+12
+
+UTPL
+
+3. Orientaciones didácticas por resultados de aprendizaje
+Primer bimestre
+
+Resultado de aprendizaje 1:
+Determina las funciones trigonométricas a través del método de la
+circunferencia o del triángulo rectángulo para modelar y resolver
+problemas cotidianos.
+Para lograr este resultado de aprendizaje, se enfatiza la habilidad de
+determinar funciones trigonométricas mediante dos enfoques fundamentales:
+el método de la circunferencia unitaria y el método del triángulo rectángulo.
+Estos métodos permiten comprender y aplicar las funciones trigonométricas
+en la modelación y resolución de problemas cotidianos, haciendo los
+conocimientos adquiridos altamente relevantes en contextos prácticos.
+Durante el bimestre, se proporcionarán orientaciones detalladas que guiarán el
+proceso de aprendizaje. Cada semana, se presentarán los contenidos
+específicos a estudiar, acompañados de recursos relevantes y actividades de
+aprendizaje diseñadas para reforzar la comprensión teórica y práctica de estos
+conceptos. La evaluación del desempeño se realizará a través de tareas
+enfocadas en la aplicación de los métodos en problemas cotidianos.
+Contenidos, recursos y actividades de aprendizaje recomendadas
+Recuerde revisar de manera paralela los contenidos con las actividades de
+aprendizaje recomendadas y actividades de aprendizaje evaluadas.
+
+13
+
+UTPL
+
+Semana 1
+Unidad 1. Funciones trigonométricas: método de la circunferencia
+unitaria
+1.1 La circunferencia unitaria
+Iniciamos considerando las funciones trigonométricas cuyo dominio están
+formados por números reales y no por ángulos. Para realizar la transición de
+ángulos a números reales debemos reconocer que a cada número real t
+corresponde un ángulo que mide t radianes.
+Esta correspondencia se puede representar gráficamente con un círculo de
+radio 1 y centro en el origen en un sistema de coordenadas rectangulares.
+Figura 1
+Punto terminal y circunferencia unitaria
+
+Nota. Tomado de Álgebra y Trigonometría con Geometría Analítica (p. 430) [Ilustración],
+por Swokowski y Cole, 2009, Cengage Learning Editores, CC BY 4.0.
+
+La figura muestra la representación gráfica del punto terminal y la
+circunferencia unitaria, se hace una descripción detallada de sus propiedades,
+las que le serán útiles en el aprendizaje de las funciones trigonométricas de
+números reales.
+14
+
+UTPL
+
+1.1.1 Puntos terminales en la circunferencia
+El punto P (x,y) marcado en la figura 2 se denomina punto terminal
+determinado por el número real t.
+Figura 2
+Punto terminal determinado por el número real
+
+Nota. Tomado de Álgebra y Trigonometría con Geometría Analítica (p. 430) [Ilustración],
+por Swokowski y Cole, 2009, Cengage Learning Editores, CC BY 4.0.
+
+En la figura 2, usted observa un número real cualquiera t no negativo ubicado
+en la circunferencia unitaria, fundamental para el aprendizaje de las funciones
+trigonométricas de números reales.
+Considere que el ángulo θ de medida t en radianes ha sido generado al girar el
+segmento de recta O A alrededor de O en la dirección contraria al giro de las
+manecillas de un reloj, entonces t es la distancia a lo largo de U que A viaja
+antes de llegar a su posición final P (x,y).
+
+15
+
+UTPL
+
+1.1.2 El número de referencia
+Le planteo usar la idea del número de referencia para ayudarse a encontrar
+puntos terminales, ya que, para encontrar un punto terminal en cualquier
+cuadrante, solo necesitamos conocer el punto terminal correspondiente en el
+primer cuadrante.
+El número de referencia t asociado con t es la distancia más corta a lo largo de
+la circunferencia unitaria entre el punto terminal determinado por t y el eje x.
+Siempre que sea un número real.
+Estimado estudiante, para una mejor comprensión de los contenidos de esta
+semana, se recomienda consultar el capítulo 5, sección 5.1 del libro de texto
+Álgebra y Trigonometría de Ramírez (2011). En este capítulo encontrará una
+explicación detallada de los conceptos fundamentales que abordaremos
+Stewart et al. (2012) nos invitan a explorar el mundo de las funciones
+trigonométricas a través de la circunferencia unitaria. La figura 1 le ayudará a
+visualizar estos conceptos. ¡Analíce detenidamente y luego intente resolver los
+ejercicios propuestos para consolidar sus conocimientos!
+
+Actividades de aprendizaje recomendadas
+
+Para afianzar sus conocimientos introductorios a las funciones
+trigonométricas, le recomiendo desarrollar las siguientes actividades:
+1. Complete las siguientes proposiciones:
+a. Sea P ( x,y ) el punto terminal en la circunferencia unitaria
+determinada por t. Entonces
+▪ sin t =
+▪ cos t =
+▪ tan tan t =
+d. Si P ( x,y ) está en la circunferencia unitaria, entonces x2 + y2 =
+
+16
+
+UTPL
+
+Así, para toda t tenemos sin2 t + cos2 t =
+2. Encuentre la coordenada faltante de P, usando el hecho de que P se
+encuentra en la circunferencia unitaria en el cuadrante dado.
+Ejercicio 1
+Coordenadas
+
+Cuadrante
+I
+I
+I
+
+3. Encuentre el punto terminal P ( x,y ) en la circunferencia unitaria,
+determinado por el valor de t. t = 4π
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+Al completar esta actividad, usted ha podido evidenciar su aprendizaje
+sobre la circunferencia unitaria. Si ha encontrado alguna dificultad, le
+recomiendo revisar nuevamente la bibliografía sugerida en esta sección,
+con el fin de reforzar sus conocimientos y alcanzar los resultados de
+aprendizaje esperados.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Detrás de los sueños siempre hay esfuerzos que la gente no ve.”
+¡Siga adelante!
+
+17
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 2
+Unidad 1. Funciones trigonométricas: método de la circunferencia
+unitaria
+Estimado estudiante, en la semana anterior iniciamos con el estudio de las
+funciones trigonométricas, haciendo hincapié en la circunferencia unitaria, con
+lo que usted está preparado para estudiar el siguiente tema.
+
+1.2 Funciones trigonométricas de números reales
+1.2.1 Las funciones trigonométricas
+Haciendo uso de las propiedades de la circunferencia unitaria, se define el
+valor de una función trigonométrica de un número real t como el valor del
+ángulo de t radianes, siempre que ese valor exista.
+Hemos revisado cómo se asocia cada número real t, a un punto único P (x,y)
+en U. Recuerde, a P ( x,y ) lo llamamos punto sobre la circunferencia unitaria U
+que corresponde a t. Las coordenadas ( x,y ) de P se pueden usar para hallar
+las seis funciones trigonométricas de t. Entonces, por la definición de las
+funciones trigonométricas de números reales junto con la definición de las
+funciones trigonométricas de cualquier ángulo, vemos que:
+
+18
+
+UTPL
+
+Tabla 1
+Definición de las funciones trigonométricas
+Definición de las funciones trigonométricas
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo, por Stewart, Redlin y Watson,
+2017, p. 409, México, D.F., Cengage Learning Editores, S.A.
+
+En esta tabla usted puede apreciar las razones que determinan las funciones
+trigonométricas en el círculo unitario, también conocidas con el nombre de
+funciones circulares, estas razones le ayudarán a determinar el valor de
+cualquier función trigonométrica de un número t.
+1.2.2 Valores de las funciones trigonométricas
+Los valores de las funciones trigonométricas para cualquier número real t
+podrán ser calculados si previamente se determinan sus signos, los que
+dependen del cuadrante en el que se encuentre el punto terminal de t. Estos
+signos se explican seguidamente.
+Tomando en cuenta el siguiente nemónico, usted podrá recordar los signos de
+las funciones trigonométricas de acuerdo a la siguiente figura:
+
+19
+
+UTPL
+
+Figura 3
+Signos de las Funciones Trigonométricas
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 412), por Stewar et al.,
+2012, Cengage Learning Editores. CC BY 4.0.
+
+Esta figura expresa cómo varían los signos de las funciones trigonométricas
+alrededor de la circunferencia unitaria, en sentido contrario a las manecillas
+del reloj, en cada cuadrante, entender los signos le ayudará a usted, querido
+estudiante, a determinar el signo correcto de una función trigonométrica en
+cualquier posición de la circunferencia unitaria.
+A continuación, procedo a explicarle los pasos para determinar los valores de
+las funciones trigonométricas de cualquier número real por medio de algunos
+ejemplos, le recomiendo analizar e interiorizar cada uno de ellos.
+Ejemplo modelo
+
+20
+
+UTPL
+
+Enunciado: encuentre el valor exacto de la función trigonométrica en el número
+real dado
+
+.
+
+i. Encontrar el número de referencia. Determine el número de referencia
+asociado con t_ asociado con t.
+Figura 4
+Proceso de Resolución
+
+Nota. Granda S., 2020.
+
+En la figura 4, usted querido estudiante, puede observar el proceso para
+encontrar el número de referencia como solución del problema dado, es
+conveniente que analice los elementos de la gráfica solución.
+ii. Encontrar el signo. Determine el signo de la función trigonométrica de t
+indicando el cuadrante en el que se encuentra el punto terminal.
+Como usted puede observar en la gráfica del ejemplo, el punto terminal de
+está en el tercer cuadrante, por lo que
+
+es negativo.
+
+iii. Encontrar el valor. El valor de la función trigonométrica de t. Es igual,
+excepto posiblemente por el signo, que el valor de la función trigonométrica
+de .
+
+21
+
+UTPL
+
+Ya que
+
+Podemos concluir que:
+
+1.2.3 Identidades fundamentales
+Una identidad trigonométrica es una ecuación o fórmula donde intervienen
+funciones trigonométricas, que es válida para todos los ángulos o números
+reales para los cuales están definidos ambos lados de la igualdad.
+Tabla 2
+Identidades fundamentales
+Identidades fundamentales
+
+Identidades recíprocas
+
+Identidades de Pitágoras
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo, por Stewart, Redlin y
+Watson, 2017, p. 415, México, D.F., Cengage Learning Editores, S.A.
+
+En la tabla 2, usted puede apreciar las identidades recíprocas y pitagóricas
+necesarias para determinar funciones trigonométricas de números reales a
+partir de una función dada.
+
+22
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Para fortalecer su aprendizaje, resuelva las actividades propuestas a
+continuación:
+1. Elabore un cuestionario sobre los fundamentos teóricos de esta
+semana. Aproveche diversos recursos abiertos para investigar más a
+fondo, lo que enriquecerá su comprensión y le permitirá abordar los
+temas con mayor profundidad y seguridad.
+2. Para comprender eficientemente las funciones trigonométricas de
+números reales, y que usted pueda desarrollar de forma pertinente el
+foro académico calificado de esta semana, le invito a:
+a. Observar atentamente el video titulado “Trigonometría. Relación
+entre ángulos”.
+En este video se expone la forma cómo se calculan razones
+trigonométricas sin utilizar calculadora, empleando la
+circunferencia unitaria.
+b. Las identidades trigonométricas son fundamentales para resolver
+ecuaciones y simplificar expresiones. Le recomiendo revisar la
+sección 6.3 del libro de Swokowski para familiarizarse con las
+identidades más importantes y su aplicación
+3. Compruebe lo aprendido resolviendo los siguientes ejercicios:
+1. Encuentre el valor exacto de la función trigonométrica en el
+número real dado.
+2. Encuentre el valor (si está definido) de cada una de las seis
+funciones trigonométricas en el número real dado. Use sus
+respuestas para completar la tabla.
+
+23
+
+UTPL
+
+Ejercicio 2
+t
+
+sen t
+
+cos t
+
+O
+
+O
+
+1
+
+π
+
+tan t
+
+csc t
+
+sec t
+
+cot t
+
+indefinido
+
+O
+
+indefinido
+
+4. Escriba la primera expresión en términos de la segunda, si el punto
+terminal determinado está en el cuadrante dado.
+t, cos cos t; cuadrante II
+5. Encuentre los valores de las funciones trigonométricas de t a partir de
+la información dada.
+, el punto terminal de t está en el cuadrante IV.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+Con el desarrollo de estas actividades, usted ha tenido la oportunidad de
+evidenciar su aprendizaje sobre las funciones trigonométricas de números
+reales. Si ha experimentado alguna dificultad, es recomendable revisar
+nuevamente la bibliografía recomendada para alcanzar los resultados de
+aprendizaje esperados.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Solo tendrás éxito si crees que puedes tenerlo”
+¡Siga adelante!
+
+24
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 3
+Unidad 1. Funciones trigonométricas: método de la circunferencia
+unitaria
+1.3 Gráficas trigonométricas
+Las gráficas son herramientas fundamentales para entender el
+comportamiento de una función, ya que permite representar información
+compleja de manera visual y fácilmente interpretable. En esta unidad, usted
+aprenderá a trazar las gráficas de las funciones seno, coseno, tangente,
+cotangente, secante, cosecante, así como alguna de sus transformaciones.
+1.3.1 Gráficas de las funciones seno y coseno
+Para que empiece a trazar las gráficas de las funciones seno y coseno, debe
+tomar en cuenta los siguientes aspectos:
+▪ Teorema en valores de función repetidos para sen y cos. Si n es cualquier
+entero, entonces:
+◦ ( t + 2πn ) = t
+◦ cos cos ( t + 2 πn ) = cos cos t
+▪ Definición de función periódica: Una función f es periódica si existe un
+número real positivo k, tal que:
+◦ f ( t + k ) = f ( t ) para toda t en el dominio de f
+◦ El número real positivo k mínimo, si existe, es el periodo de f
+▪ El periodo de las funciones seno y coseno es 2π.
+▪ El dominio de la función seno y coseno son todos los reales.
+▪ El rango de la función seno y coseno está en el intervalo [-1,1].
+
+25
+
+UTPL
+
+▪ Si usamos el hecho de que las funciones seno y coseno son periódicas con
+periodo 2π, se obtendrán gráficas completas al continuar la misma
+configuración a la izquierda y a la derecha en cada intervalo subsiguiente
+de longitud 2π.
+▪ La gráfica de la función seno es simétrica con respecto al origen.
+▪ La gráfica de la función coseno es simétrica con respecto al eje y.
+▪ La función seno es una función impar.
+▪ La función coseno es una función par.
+▪ Como deseamos trazar estas gráficas en un plano xy, sustituimos la
+variable t por x y consideramos las ecuaciones:
+◦ y = sen x
+◦ y = cos x
+▪ Podemos considerar x como la medida de cualquier ángulo en radianes,
+pero, en cálculo, x suele ser considerada como número real. Estos son
+puntos de vista equivalentes, porque el seno (o coseno) de un ángulo de x
+radianes es el mismo que el seno (o coseno) del número real x.
+▪ La variable y denota el valor de la función que corresponde a x.
+▪ Para graficar las funciones seno y coseno, debe elaborar una tabla que
+contenga una lista de coordenadas de varios puntos, en las gráficas de y =
+x y y = cos cos x para 0 ≤ x ≤ 2 π.
+1.3.2 Gráficas de transformaciones de las funciones seno y coseno
+Una vez que hemos aprendido a graficar las funciones seno y coseno, en esta
+sección consideraremos las gráficas de las ecuaciones:
+▪ y=k(x-b)
+▪ y=k(x-b)(k>0)
+Para números reales a , b , k , amplitud | a |, periodo
+
+y desplazamiento
+
+horizontal b.
+
+26
+
+UTPL
+
+La idea es graficar estas funciones, las que son transformaciones de las
+funciones seno y coseno a partir de sus tablas de valores, para no localizar
+demasiados puntos. Las gráficas que se obtendrán son muy importantes para
+la comprensión de las aplicaciones de las funciones trigonométricas,
+específicamente el movimiento armónico.
+Estudiaremos las transformaciones de las funciones seno y coseno
+considerando dos casos:
+a. Caso especial: c = 0 y b = 1, es decir, y = a sen sen k x y y = a cos cos k x.
+( k > 0 ), amplitud | a | y periodo
+Podemos hallar las coordenadas y de puntos sobre las gráficas si
+multiplicamos por las coordenadas y de puntos en las gráficas de:
+y = x y y = cos cos x.
+Ejemplo ilustrativo: para graficar y = x multiplicamos por 2 la coordenada y
+de cada punto sobre la gráfica de y = x y obtenemos la siguiente tabla de
+valores.
+Tabla 3
+Valores de la función y = x
+x
+
+0
+0
+
+0.71
+
+1
+
+0.71
+
+0
+
+-0.71
+
+-1
+
+-0.71
+
+0
+
+0
+
+1.42
+
+2
+
+1.42
+
+0
+
+-1.42
+
+-2
+
+-1.42
+
+0
+
+Nota. Tomado de Gráficas de transformaciones de las funciones seno y coseno (p.
+28), por Granda, S., EdiLoja.
+
+27
+
+UTPL
+
+En esta tabla puede observar los valores que se obtiene al evaluar la
+función y = x, para esto usted debe emplear su calculadora científica en
+modo radianes.
+Estos valores nos permiten realizar la siguiente gráfica, donde por
+comparación también observamos la gráfica de y = x.
+El procedimiento es el mismo que para estirar verticalmente la gráfica de
+una función cualquiera.
+Figura 5
+Gráfica de y = x
+
+Nota. Granda S., 2020.
+
+En esta figura usted puede observar la gráfica de la función dada, donde
+claramente, se observan sus elementos, los explico a continuación: El
+número | a | se denomina amplitud y en nuestro ejemplo | a | = 2
+El periodo
+Entonces, hay una onda senoidal de amplitud 2 en el intervalo [ 0,2 π ].
+b. Caso: curvas de seno y coseno desplazados. y = k ( x - b )
+
+28
+
+UTPL
+
+y = k ( x - b ) k > 0 amplitud | a |, periodo
+
+y desplazamiento. horizontal b.
+
+Intervalo para trazar la gráfica de un periodo completo
+Ejemplo ilustrativo: Para graficar
+
+.
+
+debemos desplazar la
+
+gráfica desde una distancia 2, verticalmente hacia abajo por el signo
+negativo, esto hace que la función original se refleje, se constituye la
+amplitud de la gráfica, desplazarla
+intervalo
+
+, en un periodo de y graficarla en el
+
+.
+
+Cálculos:
+1. | a | = | - 2 | = 2
+2. Periodo
+3.
+4. Intervalo para graficar un periodo completo:
+
+29
+
+UTPL
+
+Figura 6
+Gráfica de la función seno y sus transformaciones
+
+Nota. Granda S., 2020.
+
+La figura 6, muestra las transformaciones de la función seno, le recomiendo
+analizar la gráfica y compararlas entre sí para comprender el
+desplazamiento horizontal, vertical y desfase.
+Valores de la función
+Para una mejor comprensión, analice la tabla de datos donde usted puede
+apreciar las transformaciones de la función.
+
+30
+
+UTPL
+
+Tabla 4
+Tabla de valores de funciones de
+x
+
+0
+
+0
+
+0.5
+
+0.87
+
+1
+
+0.87
+
+0.5
+
+0
+
+-0.5
+
+-0.87
+
+-1
+
+-0.87
+
+-0.5
+
+0
+
+0.5
+
+0
+
+-1
+
+-1.73
+
+-2
+
+-1.73
+
+-1
+
+0
+
+1
+
+1.73
+
+2
+
+1.73
+
+1
+
+0
+
+-1
+
+0
+
+0
+
+-1
+
+-1.73
+
+-2
+
+-1.73
+
+-1
+
+0
+
+1
+
+1.73
+
+2
+
+1.73
+
+1
+
+0
+
+Nota. Tomado de Gráficas de transformaciones de las funciones seno y coseno (p. 28), por Granda, S., EdiLoja.
+
+En esta tabla puede observar los valores que se obtiene al evaluar la función:
+Para esto, usted debe emplear su calculadora científica en modo radianes.
+Continuando con el estudio de las funciones trigonométricas, ahora vamos a aprender a trazar la gráfica de las
+funciones tangente, cotangente, secante y cosecante, y sus transformaciones.
+
+31
+
+1.3.3 Gráfica de las funciones tangente, cotangente, secante y cosecante
+Las gráficas de las funciones muestran muchas de sus propiedades, por esta
+razón, para empezar a trazarlas debe tomar en cuenta los aspectos de cada
+una de ellas, que se detallan en el módulo didáctico titulado “Propiedades de
+las funciones”.
+Propiedades de las funciones
+Finalmente, estos resúmenes le ayudarán a sistematizar los contenidos
+teóricos de esta unidad, por lo que, le recomiendo estudiarlos minuciosamente
+para su total comprensión y aplicación en la resolución de problemas de
+modelado con funciones trigonométricas de números reales.
+1.3.4 Gráfica de transformaciones de las funciones tangente y cotangente
+Los métodos que usted aprendió para graficar transformaciones de las
+funciones seno y coseno se pueden aplicar a las funciones tangente y
+cotangente, tomando en cuenta algunas diferencias que se dan por la
+presencia de las asíntotas.
+Para graficar las transformaciones de las funciones tangente y cotangente,
+debe tomar en cuenta las siguientes recomendaciones:
+▪ Para algunas gráficas de tangente y cotangente, debe empezar por trazar la
+parte entre asíntotas sucesivas y luego debe repetir ese patrón a derecha e
+izquierda.
+▪ La gráfica de y = a tan x para a > 0 se puede obtener al multiplicar a por la
+coordenada de cada punto en la gráfica y = tan x.
+▪ Si la gráfica de y = a tan x para a < 0, entonces también usamos una
+reflexión alrededor del eje x.
+▪ Como la función tangente tiene periodo π, es suficiente trazar la
+ramanentre las dos asíntotas verticales sucesivas con:
+y
+.
+▪ Las funciones y = a tan k x y y = a cot k x ( k > 0 ) tiene un periodo
+
+32
+
+UTPL
+
+▪
+
+▪
+
+es el intervalo apropiado para trazar la gráfica de un periodo de
+
+es el intervalo apropiado para trazar la gráfica de un periodo de
+
+Ejemplo ilustrativo : trazar la gráfica de la función
+Solución:
+a. Cálculo del periodo:
+b. Cálculo del intervalo apropiado:
+de y = tan 2 x.
+c. Cálculo del intervalo apropiado.
+d. La gráfica está desplazada a la derecha
+e. El intervalo debe ser desplazado
+
+a la derecha .
+
+f. Se identifican los puntos extremos del intervalo
+
+y
+
+y que se
+
+constituyen en asíntotas verticales.
+g. Se elabora la tabla de valores:
+
+33
+
+UTPL
+
+Tabla 5
+Valores de
+x
+
+0.58
+
+1.73
+
+indefinido
+
+-1.73
+
+-0.58
+
+0
+
+0.58
+
+indefinido
+
+-1.73
+
+-0.58
+
+0
+
+0.58
+
+1.73
+
+indefinido
+
+Nota. Tomado de Gráficas de transformaciones de las funciones seno y coseno (p.
+36), por Granda, S., EdiLoja.
+
+En esta figura puede observar la tabla de valores que se obtiene al evaluar
+la función
+
+, para esto usted debe emplear su calculadora
+
+científica en modo radianes.
+h. Finalmente, trazamos la gráfica de un periodo en la forma de tangente en el
+intervalo
+
+y se puede repetir la parte de la gráfica a la izquierda y a
+
+la derecha, tome en cuenta las asíntotas.
+Figura 7
+Gráfica de y = tan tan
+
+Nota. Granda S., 2020.
+
+34
+
+UTPL
+
+En esta figura puede apreciar el comportamiento de la función tangente, es
+muy importante que usted identifique las asíntotas y las características de
+esta función trigonométrica.
+En la siguiente gráfica usted puede apreciar las gráficas de las funciones:
+, y el desplazamiento
+Figura 8
+Gráfica de y = tan tan2x ,y = tan tan
+
+Nota. Granda S., (2020).
+
+La figura 8, muestra las transformaciones de la función tangente, le
+recomiendo analizar la gráfica y compararlas entre sí, para comprender sus
+variaciones e identificar una a una sus propiedades.
+Luego de analizar los procesos desarrollados en estos ejemplos modelo, lo
+animo a realizar sus propias gráficas, empleando su calculadora de pantalla
+gráfica y/o geogebra.
+
+35
+
+UTPL
+
+1.3.5 Gráfica de transformaciones de las funciones cosecante y secante
+Hemos avanzado paso a paso con las gráficas de las funciones
+trigonométricas, ahora nos corresponde graficar las funciones cosecante y
+secante: sabemos que estas funciones son las recíprocas de las funciones
+seno y coseno, por lo que, los procesos antes revisados son la base para
+trabajar esta sección.
+Tome en cuenta que las funciones y = a csc kx y y = aseckx ( k > 0 ) tienen
+periodo
+El intervalo
+
+se considera apropiado para trazar la gráfica de un periodo
+
+completo.
+Las gráficas que contienen funciones secante y cosecante se puede obtener
+con métodos semejantes a aquellos empleados para tangente o cotangente, o
+tomando recíprocos de gráficas correspondientes de las funciones coseno y
+seno, por lo que, recomiendo realizar sus propias gráficas, empleando su
+calculadora de pantalla gráfica y/o geogebra.
+
+Actividad de aprendizaje recomendada
+
+Compruebe lo aprendido desarrollando las siguientes actividades.
+1. Le recomiendo responder las interrogantes presentes en la bibliografía
+sugerida y ampliar su conocimiento a través de la investigación.
+2. Responda las preguntas del libro de GeoGebra. No olvide profundizar
+su conocimiento a través de la investigación.
+3. Observar atentamente el video titulado Funciones trigonométricas ,
+donde se presenta una explicación visual de cómo se representan
+gráficamente estas funciones. Este video permite comprender de
+manera más clara y dinámica las características y el comportamiento
+de las funciones trigonométricas, facilitando su interpretación y
+aplicación.
+
+36
+
+UTPL
+
+4. Leer comprensivamente el libro Álgebra y Trigonometría de Ramírez
+(2011) de la biblioteca virtual de la universidad, capítulo 5 sección 5.3
+correspondiente al contenido de la unidad Gráficas trigonométricas,
+aquí usted encontrará el fundamento teórico necesario para su
+aprendizaje.
+5. Compruebe lo aprendido resolviendo los siguientes ejercicios:
+a. Si una función f es periódica con periodo p, entonces f ( t + p )
+i. = ______________ para todo t. Las funciones trigonométricas y
+= sen x y y
+ii. = cos x son periódicas, con periodo ________ y amplitud
+___________ .
+b. Trace una gráfica de cada función en el intervalo [ 0 , 2 π ].
+c. La función trigonométrica f ( x ) = tanx tiene un periodo __________
+y asíntota x = _________ .Trace una gráfica de esta función en el
+i. intervalo
+
+.
+
+d. La función trigonométrica y = csc x tiene un periodo y asíntotas x
+= .Trace la gráfica de esta función, en el intervalo ( - π , π ).
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+Con estas actividades, habrá evidenciado su aprendizaje sobre las
+funciones trigonométricas de números reales. Si tuvo dificultades,
+consulte la bibliografía recomendada y herramientas como Khan
+Academy y GeoGebra, para profundizar y alcanzar los resultados
+esperados.
+
+37
+
+UTPL
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Antes que nada, la preparación es la llave del éxito”
+Alexander Graham Bell
+¡Siga adelante!
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 4
+Unidad 1. Funciones trigonométricas: método de la circunferencia
+unitaria
+1.4 Modelado de movimiento armónico
+Las funciones trigonométricas son útiles en la investigación de movimiento
+vibratorio u oscilatorio, por ejemplo, el movimiento de una partícula en una
+cuerda de guitarra en vibración o un resorte que se ha comprimido o alargado
+y luego se suelta para oscilar en una y otra dirección. Tomando en cuenta que
+este tipo de desplazamiento de partículas obedece al movimiento armónico, le
+invito a estudiar con mucha atención la siguiente sección que le explicará las
+propiedades, ecuaciones y aplicación de dicho movimiento.
+1.4.1 Movimiento armónico simple
+Un punto que se mueve en una recta coordenada está en movimiento
+armónico simple si su distancia a desde el origen en el tiempo está dada por:
+y = a senω t o y = a cos ω t
+Debe tener en cuenta que es el desplazamiento máximo del cuerpo. periodo =
+es el tiempo requerido para completar un ciclo y frecuencia =
+
+son el
+
+número de ciclos por unidad de tiempo.
+
+38
+
+UTPL
+
+Ejemplo modelo de problema de aplicación
+▪ Un corcho que sube y baja. Un corcho que flota en un lago sube y baja en
+movimiento armónico simple. Su desplazamiento por encima del fondo del
+lago está modelado por:
+y = 0.2 cos 20πt + 8
+Donde y se mide en metros y t en minutos.
+a. Encuentre la frecuencia del movimiento del corcho.
+b. Trace una gráfica de y.
+c. Encuentre el desplazamiento máximo del corcho por encima del fondo del
+lago.
+Solución:
+De las fórmulas para la frecuencia obtenemos:
+a.
+b. Al trazar las gráficas de y podemos apreciar cómo se ha desplazado 8 m a
+partir del origen fig.1 y en la fig.2, empleando un Zoom a la gráfica,
+podemos observar con claridad la amplitud del movimiento armónico. La
+gráfica del desplazamiento del corcho en el tiempo se ilustra a
+continuación.
+
+39
+
+UTPL
+
+Figura 9
+Gráfica original y ampliada de modelado de movimiento armónico del lago
+
+Nota. Granda S., 2020.
+
+En esta figura usted puede apreciar la gráfica que genera el movimiento del
+agua del lago, del problema planteado como ejemplo, aquí se evidencia el
+modelado del movimiento armónico simple.
+
+40
+
+UTPL
+
+c. El desplazamiento máximo del corcho por encima del fondo del lago es |a|
+= 0.4
+1.4.2 Movimiento armónico amortiguado
+Si tomamos en cuenta que todos los osciladores reales están sometidos a
+alguna fricción, que generan fuerzas disipativas, que llevan a cabo un trabajo
+que es transformado en calor, y es disipado fuera del sistema, salvo que
+alguna fuerza externa lo mantenga, seremos conscientes del
+amortiguamiento.
+Este amortiguamiento da lugar al movimiento armónico amortiguado y es el
+tema de estudio de esta sección, tomando en cuenta que es una variante del
+movimiento armónico, donde su amplitud, responderá a la función
+, lo que genera una variación que usted puede observar en las
+gráficas de la bibliografía sugerida.
+Si un cuerpo se desplaza y en un tiempo t y la ecuación que describe es:
+o
+entonces el cuerpo está en
+movimiento armónico amortiguado, recuerde que:
+
+Mediante la resolución de problema de modelado del movimiento armónico
+amortiguado, podrá entender las características y propiedades del mismo, por
+lo que le invito a revisar y analizar el siguiente problema de aplicación.
+Ejemplo modelo de problema de aplicación
+• Amortiguador de un auto: cuando un auto golpea contra un tope del
+camino, el amortiguador del auto se comprime una distancia de 6 pulgadas
+y luego se expande (vea la figura: amortiguador de auto). El amortiguador
+vibra en movimiento armónico amortiguado con frecuencia de dos ciclos
+
+41
+
+UTPL
+
+por segundo. La constante de amortiguamiento para este amortiguador en
+particular es 2.8.
+a. Encuentre una ecuación que describa el desplazamiento del
+amortiguador a partir de su posición de reposo como función del
+tiempo. Tome t = 0 como el instante en que se expande el amortiguador.
+b. ¿Cuánto tiempo tarda la amplitud de la vibración en disminuir a 0.5?,
+pulg.?
+Figura 10
+Amortiguador de un auto
+
+Nota. Tomado de álgebra y trigonometría analítica [Ilustración], por Cole, J., Cole, J.,
+2011, p. 459, Cengage Learning, CC BY 2.0.
+
+Solución:
+1. Datos: se procede a tomar los datos del enunciado del problema, luego de
+leerlo comprensivamente, usted debe identificar los datos y las incógnitas.
+a = 6 pulg frecuencia = 2 Hz
+constante de amortiguamiento = 2.8
+t=0
+t=?
+a = 0.5 pulg
+
+42
+
+UTPL
+
+2. De la fórmula de la frecuencia
+
+se despeja w = 2 × f Calculamos
+
+w = 2 ( 2 π ) --> w = 4 π
+3. Tomamos el modelo
+
+ya que
+
+según la indicación del problema, el movimiento inicia con cero
+desplazamiento.
+4. Para determinar el tiempo en que tarda la amplitud de la vibración en
+disminuir a 0.5 pulg., tomamos en cuenta que la amplitud está gobernada
+por el coeficiente
+en las ecuaciones para movimiento armónico
+amortiguado. Entonces:
+
+Siendo a ( t ) = 0.5, entonces
+
+5. Procedemos a graficar el modelo y obtenemos la vibración del
+amortiguador a lo largo del tiempo, usted lo puede apreciar en la siguiente
+figura:
+
+43
+
+UTPL
+
+Figura 11
+Gráfica de modelado de movimiento del amortiguador
+
+Nota. Granda S., (2020).
+
+La figura 11, muestra la gráfica del modelado del movimiento generado por el
+amortiguador del auto presentado en el problema de aplicación, le
+recomiendo, estimado estudiante, el análisis exhaustivo de dicha figura para
+comprender su comportamiento.
+1.4.3 Fase y diferencia de fase
+Si consideramos dos objetos que se encuentran en movimiento armónico
+simple y tienen las mismas frecuencias, es importante determinar si los
+objetos se están moviendo juntos o cómo difieren estos movimientos.
+
+44
+
+UTPL
+
+En esta sección abordaremos la fase y diferencia de fase que se puede dar en
+ondas modeladas por las curvas seno. Esta curva seno puede ser expresada
+en las siguientes formas equivalentes:
+la fase es b,
+.El desfase es
+
+. Para comprender la diferencia de fase
+
+consideremos dos funciones:
+y1 = Asen ( kt - b ) y y1 = Asen ( kt - c ), la diferencia de fase entre la primera
+función y la segunda: y1 y y2, es b - c. Finalmente, usted debe tomar en cuenta
+que si la diferencia de fase es un múltiplo de 2π, las ondas están en fase, caso
+contrario, las ondas están fuera de fase.
+Mediante la resolución de problemas de fase y diferencia de fase, podrá
+entender las características y propiedades del mismo, por lo que le invito a
+revisar y analizar el siguiente ejemplo:
+Para la siguiente cuerda, encuentre la amplitud, el periodo, la fase y el desfase.
+
+Solución:
+Amplitud a = 5
+Periodo =
+Fase =
+Para encontrar el desfase factorizamos:
+
+Desfase =
+
+45
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Para consolidar lo aprendido, resuelva las siguientes actividades y utilice
+la investigación como una valiosa estrategia del aprendizaje.
+1. Explore la bibliografía recomendada, Álgebra y Trigonometría de
+Ramírez (2011), disponible en la biblioteca virtual de la universidad, en
+la sección 5.6, podrá profundizar los conceptos que enriquecerán su
+comprensión y le permitirán conectar teoría y práctica de manera más
+efectiva.
+2. Con el fin de profundizar en el modelado del movimiento armónico y
+enriquecer su aprendizaje, le invito a:
+a. Revisar y emplear la Aplicación de Funciones Trigonométricas.
+Esta aplicación permite comprender el modelado del movimiento
+armónico simple, mostrando cómo las funciones seno y coseno
+representan oscilaciones cíclicas en fenómenos físicos, como el
+movimiento de un péndulo o las ondas sonoras.
+b. Lea la bibliografía recomendada sobre el modelado del
+movimiento armónico simple y amortiguado, así como sobre la
+fase y la diferencia de fase. Este recurso le proporcionará los
+fundamentos teóricos necesarios para abordar y resolver
+ejercicios y problemas propuestos de manera efectiva.
+3. Compruebe lo aprendido resolviendo los siguientes ejercicios:
+a. Para un cuerpo en movimiento armónico simple con
+
+amplitud a
+
+y periodo, encuentre una ecuación que modele el desplazamiento
+y al tiempo t si: y = 0 al tiempo t = 0 : y =
+b. Para un cuerpo en movimiento armónico amortiguado con
+amplitud inicial a, periodo
+
+, y constante de amortiguamiento y
+
+en el tiempo t si: y = a al tiempo t = 0: y =
+
+46
+
+UTPL
+
+c. Para un objeto en movimiento armónico modelado por: y = Asen (
+kt - b ) la amplitud es _____________, el periodo es ____________ y la
+fase es __________________.
+Para encontrar el desfase factorizamos k, para obtener: y =
+____________. De esta forma de la ecuación vemos que el desfase
+es __________________.
+d. Los objetos A y B se encuentran en movimiento armónico
+modelado por
+
+y
+
+. La fase
+
+de A es _________ y la fase de B es ___________ .
+La diferencia de fase es ___________________, por lo que los objetos
+se están moviendo __________ (en fase/fuera de fase).
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+El desarrollo de estas actividades le ha permitido evidenciar su
+aprendizaje sobre el modelado del movimiento armónico. Si ha
+encontrado alguna dificultad, es importante que revise los materiales
+recomendados para alcanzar los resultados de aprendizaje esperados.
+A través del chat de tutoría y consultas puede aclarar sus dudas e
+inquietudes con su docente.
+“Solo tendrás éxito si crees que puedes tenerlo”
+¡Siga adelante!
+4. Estimado estudiante, luego de culminar con el estudio de la unidad de
+funciones trigonométricas: método de la circunferencia unitaria, es
+recomendable que usted realice la autoevaluación de lo aprendido, con
+la finalidad de retroalimentar aquellas inquietudes más importantes.
+
+47
+
+UTPL
+
+Autoevaluación 1
+Seleccione la opción correcta.
+1.
+
+Las coordenadas de P(x,y) que determina
+
+sobre la
+
+circunferencia unitaria son:
+a.
+
+b.
+
+c.
+
+2.
+
+El número de referencia para el valor
+
+es:
+
+a.
+b.
+
+c.
+
+3. Si el punto P (x,y) está en la circunferencia unitaria, la coordenada
+faltante de P(-1, ) es:
+a. -1
+b. 1
+c. 0
+48
+
+UTPL
+
+4.
+Dado el punto terminal
+
+determinado por un número real
+
+t, los valores de las funciones sin sin t, cos cos t y tan tan t son:
+a.
+
+b.
+
+c.
+
+5.
+
+.
+
+El valor exacto de
+
+es:
+
+a.
+
+b.
+
+c.
+
+6.
+
+La gráfica de la función
+
+presenta la siguiente
+
+amplitud, periodo y desfase:
+a.
+
+|a| = 1, período = 2π,
+
+a la derecha.
+
+49
+
+UTPL
+
+b.
+c.
+
+|a| = -1, período = π,
+
+a la izquierda.
+
+|a| = 1, período = 2π, .
+
+a la derecha.
+
+7. Dada la gráfica de un período completo de la curva seno, se puede
+apreciar que su amplitud, período y desfase son:
+
+8.
+
+La curva seno
+
+muestra la siguiente
+
+amplitud, período y desfase:
+a.
+b.
+c.
+
+|a| = -4, período =
+
+y desfase b = π a la izquierda.
+
+|a| = 4, período = π y desfase b =
+
+a la izquierda.
+
+|a| = 4, período =
+
+a la derecha.
+
+y desfase b =
+
+50
+
+UTPL
+
+9. La función y = 23t modela el desplazamiento de un cuerpo que se
+mueve con movimiento armónico simple, su amplitud, período y la
+frecuencia del movimiento son:
+a.
+
+b.
+
+c.
+
+|a| = -2, período =
+
+, frecuencia =
+
+|a| = 2, período =
+
+, frecuencia =
+
+|a| = 2, período =
+
+, frecuencia =
+
+.
+
+10. Se tiene una amplitud inicial k = 2, una constante de amortiguamiento c
+= 1.5 y frecuencia f = 3, la función que modela un movimiento armónico
+amortiguado es:
+a.
+b.
+c.
+
+y=
+
+cos 6πt
+
+y=
+
+cos 6πt
+
+y=
+
+cos 3πt
+
+Ir al solucionario
+
+51
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 5
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo
+2.1 Trigonometría de triángulos rectángulos
+Para abordar las diversas aplicaciones matemáticas que implican funciones
+trigonométricas, las cuales vinculan ángulos y distancias, continuaremos con
+el estudio del método del triángulo rectángulo. Le invito a prestar atención a
+las definiciones presentadas en esta guía, a utilizar el libro Álgebra y
+Trigonometría de Ramírez (2011) como apoyo, y a resolver problemas de
+aplicación.
+2.1.1 Medida de un ángulo
+Para entender la medida de un ángulo es necesario definirlo, por lo que
+consideraremos las siguientes definiciones:
+Un ángulo en geometría se define como el conjunto de puntos determinado
+por dos rayas o semirrectas, l1 y l2, que tienen el mismo punto extremo O. Si A
+y B son puntos en l1 y l2 , como en la figura 12, nos referimos al ángulo
+(denotado
+) Un ángulo puede también ser considerado como dos
+segmentos de recta finitos con un punto extremo común.
+
+52
+
+UTPL
+
+Figura 12
+Representación geométrica de ángulo
+
+Nota. Tomado de Álgebra y Trigonometría con Geometría Analítica(p. 400) [Ilustración],
+por Swokowski y Cole, 2009, Cengage Learning Editores.
+
+En esta figura usted puede observar la representación gráfica de un ángulo, se
+indica cada uno de sus elementos; vértice y lados; esta representación es muy
+importante al iniciar esta unidad, ya que usted aprenderá a aplicar el método
+del triángulo rectángulo.
+Para medir dichos ángulos utilizamos grados y radianes, aquí tienen las
+definiciones de cada una de estas medidas.
+▪ Un grado es una unidad de medición angular igual
+
+a del ángulo que se
+
+forma con la línea horizontal. Se representa con el símbolo °.
+▪ Radián. Un ángulo central de un círculo mide 1 radián si interseca un arco
+cuya longitud mide lo mismo que el radio.
+2.1.2 Ángulos en posición estándar
+Para hablar de un ángulo en posición estándar, debemos introducir un sistema
+de coordenadas rectangulares, entonces la posición estándar de un ángulo se
+obtiene al tomar el vértice en el origen y hacer que el lado inicial coincida con
+el eje x positivo. Si el lado inicial está en dirección contraria al giro de las
+
+53
+
+UTPL
+
+manecillas de un reloj hasta la posición terminal, el ángulo se considera
+positivo. Si el lado inicial se hace girar en dirección de las manecillas, el ángulo
+es negativo.
+2.1.3 Longitud de un arco de circunferencia
+Debido a que el ángulo central de 1 radián siempre interseca a un arco cuya
+longitud equivale a lo que mide el radio, se infiere que el ángulo central π de
+radianes en un círculo de radio r interseca un arco de longitud πr. Esto nos
+proporciona una fórmula para medir la longitud de un arco.
+Si θ es un ángulo central en un círculo de radio r y si θ se mide en radianes,
+entonces la longitud s del arco intersecado se obtiene mediante la fórmula:
+s = rθ
+Si θ es un ángulo central, en un círculo de radio r y si θ se mide en grados,
+entonces la longitud s del arco intersecado se obtiene mediante la fórmula:
+
+2.1.4 Área de un sector circular
+Para determinar el área de un sector circular emplearemos la siguiente
+fórmula:
+
+siendo θ la medida en radianes de un ángulo central de
+
+una circunferencia de radio r.
+2.1.5 Movimiento circular
+Para contextualizar la definición de movimiento circular, usted debe recordar la
+definición de la velocidad promedio de un objeto, que no es más que la
+distancia recorrida dividida entre el tiempo transcurrido. Ahora suponga que un
+objeto se mueve alrededor de un círculo de radio r a una velocidad constante.
+Si s es la distancia recorrida en el tiempo t alrededor del círculo, entonces la
+velocidad lineal v del objeto se define como:
+
+54
+
+UTPL
+
+Mientras este objeto viaja alrededor del círculo, suponga que θ (medido en
+radianes) es el ángulo central barrido en el tiempo t. Entonces, la velocidad
+angular w (la letra griega omega) de este objeto es el ángulo (medido en
+radianes) que se barren divididas entre el tiempo transcurrido, es decir
+:
+Finalmente, es necesario que usted conozca la relación entre la velocidad
+lineal y angular, en el caso específico de un punto que se mueve a lo largo de
+un círculo de radio r con velocidad angular w, entonces su velocidad lineal v
+está dada por v = rw.
+Una vez presentadas estas definiciones, le invito a observar y analizar el
+proceso de resolución de los ejercicios y problemas resueltos en línea. Junto
+con la explicación que se presenta a continuación sobre un problema de
+aplicación, podrá abordar eficientemente la evaluación parcial de los
+conocimientos adquiridos en esta unidad.
+Ejemplos modelos de problemas de aplicación
+Distancia de viaje. Las ruedas de un auto miden 28 pulgadas de diámetro.
+¿Qué distancia (en millas) recorrerá el auto si sus ruedas giran, 100000 veces
+sin patinar?
+a. Datos
+d = 28 pulg
+s=?
+θ=2π
+b. Cálculos
+
+55
+
+UTPL
+
+θ = s / r --> s = θ . r --> s = 2π . ( 14 pulg ) = 28 πpulg
+Si la rueda gira 10000 veces sin patinar
+--> 28π ( 10000 ) = 280000 πpulg
+c. Finalmente, empleamos una regla de tres para convertir de pulgadas a
+millas.
+1 milla
+
+63360 pulg
+
+x
+
+280000 π
+
+Velocidad de una corriente. Para medir la velocidad de una corriente, unos
+científicos colocan una rueda de paletas en la corriente y observa la rapidez a
+la que gira la rueda. Si la rueda tiene un radio de 0.20 m y gira a 100 rpm,
+encuentre la velocidad de la corriente en .
+a. Datos
+r = 0.20 m
+
+v=?
+b. Cálculos
+Determinamos la v = rw --> v = ( 0.20 m ) ( 600 π )
+
+56
+
+UTPL
+
+Realizamos la conversión de unidades
+
+Actividades de aprendizaje recomendadas
+
+Reforcemos el aprendizaje realizando las siguientes actividades.
+1. Para comprender eficientemente la trigonometría de triángulos
+rectángulos y que además usted pueda participar de forma pertinente
+en el foro académico propuesto para esta semana, le invito a:
+◦ Observar atentamente el video titulado Grados sexagesimales y
+radianes.
+En este vídeo se explica el proceso previo para resolver triángulos
+rectángulos por medio de ejemplos de aplicación de los contenidos
+de esta unidad.
+2. Considere la bibliografía recomendada Álgebra y Trigonometría de
+Ramírez (2011) disponible en la biblioteca virtual de la universidad, en
+la sección 6.1. Este material le proporcionará los fundamentos teóricos
+sobre la medida de un ángulo, los ángulos en posición estándar, la
+longitud de un arco de circunferencia, el área de un sector circular y el
+movimiento circular, lo que le permitirá abordar con confianza los
+ejercicios y problemas de aplicación.
+3. Elabore un banco de preguntas, tomando en cuenta los ejercicios y
+problemas propuestos de esta sección.
+4. Resuelva el banco de preguntas superando las dificultades por medio
+de la investigación y la consulta a su docente.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+57
+
+UTPL
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Lo único imposible es aquello que no intentas”
+¡Siga adelante!
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 6
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo
+Estimado estudiante, en la semana anterior iniciamos el estudio de las
+funciones trigonométricas mediante el método del triángulo rectángulo, lo cual
+le ha brindado una base sólida para resolver problemas relacionados con
+triángulos rectángulos en contextos físicos. Ahora es el momento de avanzar
+en su aprendizaje y profundizar en las funciones trigonométricas aplicadas a
+ángulos generales. Siga adelante con su dedicación; está progresando de
+manera excelente.
+
+2.2 Funciones trigonométricas de ángulos
+Con base en su conocimiento de las relaciones trigonométricas para ángulos
+agudos, en esta sección ampliaremos estas definiciones para abarcar ángulos
+de cualquier medida, para esto es necesario revisar la infografía que se
+presenta a continuación:
+Funciones Trigonométricas en el Sistema de Coordenadas Rectangulares
+Esta infografía aborda la representación de ángulos y funciones
+trigonométricas en el sistema de coordenadas rectangulares. Se inicia
+explicando cómo se coloca un ángulo en posición estándar, con el vértice en el
+origen y un triángulo rectángulo que conecta el origen con un punto P(x,y). A
+partir de este triángulo, se definen las seis funciones trigonométricas en
+función de las coordenadas y la distancia desde el origen. Si denota la
+distancia de ( 0,0 ) a P ( x,y ), entonces las seis funciones trigonométricas de θ
+se definen como las razones presentadas en la siguiente tabla:
+
+58
+
+UTPL
+
+Tabla 6
+Razones trigonométricas
+Razones trigonométricas
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 491), por Stewart, Redlin y
+Watson, 2017, México, D.F., Cengage Learning Editores, S.A.
+
+En esta tabla se muestran las razones trigonométricas de un ángulo cualquiera
+θ, estas razones usted las empleará para resolver funciones trigonométricas
+por medio del método del triángulo rectángulo.
+2.2.1 Evaluación de funciones trigonométricas de cualquier ángulo
+Una vez que se sabe en qué cuadrante está un ángulo, se determina el signo
+de cada función trigonométrica de este ángulo. Utilizar cierto ángulo de
+referencia puede ayudar a evaluar las funciones trigonométricas de este.
+Sea θ un ángulo no agudo que está en un cuadrante. El ángulo agudo formado
+por el lado terminal de θ y ya sea el lado positivo del eje x o el lado negativo del
+eje x se llama ángulo de referencia para θ.
+Ejemplo: encuentre el valor exacto de la función trigonométrica cos 1500.
+En la figura podemos observar que
+Pero
+Dado que
+Por lo que
+
+59
+
+UTPL
+
+Figura 13
+Gráfica de solución de un ángulo de referencia
+
+Nota. Granda, S., 2020.
+
+En la figura se aprecia el recorrido de un punto de referencia P(x,y) del primer
+al segundo cuadrante donde el signo de las coordenadas cambia y esto a su
+vez modifica el signo de las funciones trigonométricas del ángulo dado en
+comparación con el ángulo de referencia. En la solución del siguiente ejemplo
+se explica paso a paso el proceso a seguir para evaluar las funciones
+trigonométricas de cualquier ángulo.
+Encuentre el valor exacto de la función trigonométrica: csc( -630°)
+Como usted puede darse cuenta para llegar al ángulo de -630, el ángulo
+medido en posición estándar y en sentido horario, ya que es negativo, debe dar
+un giro de -3600 y continuar con un giro de -2700 para llegar al eje +y donde
+se ubicará el punto P (x,y ).
+El ángulo -6300 es coterminal con el ángulo 270 de y el lado terminal de este
+ángulo está en el primer cuadrante, eje positivo y. Por tanto, el ángulo de
+referencia es: -10 -90 = -270, y el valor de la csc -630 es positivo.
+Tenemos csc -6300 = csc -2700 = - csc 900 no está definido.
+
+60
+
+UTPL
+
+Figura 14
+Gráfica de solución de la evaluación de una función trigonométrica
+
+Nota. Granda, S., 2020.
+
+En esta figura se muestra el ángulo de referencia del ángulo dado en el
+problema propuesto, su ubicación en la circunferencia unitaria, lo que permite
+determinar el signo de cada función trigonométrica solicitada y así dar
+solución al problema planteado.
+2.2.2 Identidades trigonométricas
+Las identidades trigonométricas son ecuaciones por medio de las cuales las
+funciones trigonométricas se relacionan entre sí, ahora estudiaremos
+identidades para cualquier ángulo, siempre que ambos lados de la ecuación
+estén definidos, como procedo a explicar en los siguientes ejemplos:
+Ejemplo 1. Escriba la primera función trigonométrica en términos de la
+segunda θ para en el cuadrante dado.
+tan θ, cos θ; θ en el cuadrante III
+
+61
+
+UTPL
+
+Solución: de la identidad pitagórica sen 2θ + cos 2θ = 1, despejamos senθ y
+tenemos que:
+recíproca
+
+. Esto lo reemplazamos en la identidad
+, tomando en cuenta el signo negativo de la función
+
+seno, ya que está en el tercer cuadrante.
+Finalmente se obtiene
+Ejemplo 2. Encuentre los valores de las funciones trigonométricas de
+de la información dada.
+
+a partir
+
+Figura 15
+Gráfica y explicación de resolución del ejemplo 2 de identidades trigonométricas
+
+Nota. Granda, S., 2020.
+
+En esta figura se muestra el proceso de resolución de un triángulo rectángulo
+para hallar el cateto faltante y de acuerdo a su ubicación en el cuarto
+cuadrante, se obtiene el resto de funciones trigonométricas solicitadas.
+2.2.3 Áreas de triángulos
+Para finalizar esta sección y por ende la presente semana, vamos a estudiar
+una de las aplicaciones de las funciones trigonométricas que comprenden
+ángulos que no son necesariamente agudos, para esto es necesario que usted
+
+62
+
+UTPL
+
+tome en cuenta la explicación brindada por el texto guía en la página 497,
+donde se indica detalladamente cómo se obtiene la ecuación del área de un
+triángulo.
+Una vez que usted ya revisó lo solicitado, concluirá conmigo que la ecuación
+expresa el área A de un triángulo con lados de longitudes a, y b y con un
+ángulo entre ellos θ, es
+Ejemplo: encuentre el área del triángulo con la descripción dada.
+Un triángulo con lados de longitud 7 y 9 y el ángulo entre ellos de 72°.
+Figura 16
+Gráfica y explicación de resolución de ejemplo de área de triángulo
+
+Nota. Granda, S., 2020.
+
+En esta figura se muestra la resolución del problema propuesto, se grafica los
+datos dados y se determina el área del triángulo aplicando la fórmula
+explicada en este apartado, recuerde su calculadora debe estar en modo DEG.
+
+63
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Compruebe lo aprendido resolviendo las siguientes actividades:
+1. Conteste las interrogantes que se encuentran en la bibliografía
+recomendada, no olvide ampliar su conocimiento investigando.
+2. Le invito a participar del quiz que se presenta a continuación, no olvide
+ampliar su conocimiento a través de la investigación. ¡Siga explorando
+y aprendiendo!
+Funciones Trigonométricas de Ángulos
+3. Observar atentamente el video titulado Razones trigonométricas de un
+ángulo agudo.
+En este vídeo se explican las relaciones trigonométricas para ángulos
+agudos y todo tipo de ángulo.
+4. Revise los contenidos sobre funciones trigonométricas de ángulos,
+evaluación de funciones trigonométricas de cualquier ángulo,
+identidades trigonométricas y áreas de triángulos en la sección 6.3 del
+libro Álgebra y Trigonometría de Ramírez (2011), disponible en la
+biblioteca virtual de la universidad, donde encontrará los fundamentos
+teóricos necesarios para resolver ejercicios y problemas de aplicación.
+5. Compruebe lo aprendido resolviendo los siguientes ejercicios:
+a. Si el ángulo θ está en posición estándar, P ( x,y ) es un punto sobre
+el lado terminal de θ, y r es la distancia del origen a P, entonces:
+i. senθ =________ cosθ =_______ tanθ=______
+b. Complete:
+a. El signo de una función trigonométrica de θ depende delen el
+que se encuentre el lado terminal del ángulo θ.
+b. En el segundo cuadrante, sen θ es __________ (positivo/
+negativo).
+
+64
+
+UTPL
+
+c. En el tercer cuadrante, cos θ es __________ (positivo/
+negativo).
+d. En el cuarto cuadrante, sen θ es __________ (positivo/
+negativo).
+c. Si θ está en posición estándar, entonces el ángulo de referencia
+_________ es el ángulo agudo formado por el lado terminal de θ y el
+_________ . Así que el ángulo de referencia para θ = 1000 es =
+________, y para θ = 1900 es =
+d. Si θ es cualquier ángulo, el valor de una función trigonométrica de
+θ es igual, excepto posiblemente por el signo, que el valor de la
+función trigonométrica de . Por lo que sen100º = sen sen190º = sen _______ .
+e. El área A de un triángulo con lados de longitudes a y b y con el
+ángulo entre ellos θ está dada por la fórmula A = ________ .
+Por lo que el área del triángulo con lados de 4 y 7 y el ángulo entre
+ellos
+es ________.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+Al desarrollar estas actividades, ha podido evidenciar su aprendizaje
+sobre funciones trigonométricas de ángulos. Si ha encontrado alguna
+dificultad, le sugiero revisar nuevamente la bibliografía recomendada para
+consolidar los resultados de aprendizaje esperados. No dude en aclarar
+sus inquietudes con su docente.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Nunca desistas de su sueño. Solo trata de ver las señales que te
+lleven a él”
+¡Siga adelante!
+
+65
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 7
+Unidad 2. Funciones trigonométricas: método del triángulo rectángulo
+2.3 Funciones trigonométricas inversas y triángulos rectángulos
+Recuerde que cada función tiene una relación inversa, y que esa relación
+inversa es una función solo si la función original es uno a uno. Sabemos que
+las seis funciones trigonométricas básicas son periódicas, y de forma
+espectacular, más no son uno a uno, por lo que, restringiremos su dominio a
+un intervalo en el cual sí lo sean y así poder estudiar su comportamiento
+inverso.
+2.3.1 Funciones seno inverso, coseno inverso y tangente inversa
+Empezamos con la función seno, tomando en cuenta que debemos restringir
+su dominio a los ángulos del intervalo,
+
+como lo indico en la tabla de
+
+resumen siguiente, la misma que procedo a sintetizar para su aplicación en la
+resolución de problemas.
+
+66
+
+UTPL
+
+Tabla 7
+Dominios y rangos de las funciones trigonométricas inversas
+Cuadro de resumen de dominios y rangos de las funciones trigonométricas
+inversas
+Función
+
+Dominio
+
+Rango
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 502), por Stewart, Redlin y
+Watson, 2017, México, D.F., Cengage Learning Editores, S.A.
+
+Estimado estudiante, en esta tabla podrá observar cómo sistematizar los
+dominios y rangos de las funciones trigonométricas inversas. Esto le será de
+gran ayuda para resolver los problemas de aplicación asignados esta semana.
+Pongamos en práctica lo aprendido resolviendo algunos ejemplos. Le
+recomiendo seguir los procesos paso a paso, utilizando esta guía didáctica y
+la sección 6.4 de Álgebra y Trigonometría de Ramírez (2011) disponible en la
+biblioteca virtual de la universidad, como referencia.
+Ejemplos:
+a. Encuentre el valor exacto de
+en radianes.
+
+, si está definida. Exprese su respuesta
+
+Solución
+El ángulo en el intervalo
+
+con seno 1 es
+
+Por lo tanto,
+
+b. Use la calculadora para encontrar un valor aproximado de
+Solución
+
+67
+
+UTPL
+
+Ya que 3 > 1 no está en el dominio de
+
+no está definido.
+
+2.3.2 Solución de ángulos en triángulos rectángulos
+En esta sección resolveremos
+trigonométricas inversas
+
+triángulos
+
+por medio de funciones
+para encontrar la medida del
+
+ángulo cuando la razón de las medidas de los lados es desconocida.
+Apreciado estudiante, le invito a seguir las explicaciones dadas en la solución
+de los siguientes problemas de aplicación.
+a. Encuentre el ángulo θ en grados, redondeado a un decimal.
+Figura 17
+Gráfica y explicación de resolución 1: ángulos triángulos, rectángulos
+
+Nota. Granda, S., 2020.
+
+En la figura 17, se explica la resolución del problema propuesto, a partir del
+triángulo dado, se procede a determinar el ángulo θ con los valores de la
+hipotenusa y cateto dados, y la razón trigonométrica adecuada, recuerde su
+calculadora, debe estar en modo DEG.
+
+68
+
+UTPL
+
+b. Escalera inclinada. Una escalera de 20 pies está apoyada contra un edificio.
+Si la base de la escalera está a 6 pies de la base del edificio, ¿cuál es el
+ángulo de elevación de la escalera? ¿A qué altura del edificio llega la
+escalera?
+Figura 18
+Gráfica y explicación de resolución 2: ángulos triángulos, rectángulos
+
+Nota. Granda, S., 2020.
+
+En la figura 18 se explica la resolución del problema propuesto, se ha
+bosquejado la gráfica de del triángulo a partir de los datos dados, se procede a
+determinar el ángulo θ con los valores de la hipotenusa y cateto dados, y la
+razón trigonométrica adecuada, recuerde su calculadora debe estar en modo
+DEG, luego con el teorema de Pitágoras determinamos la altura solicitada.
+
+69
+
+UTPL
+
+2.3.3 Evaluación de expresiones que tienen funciones trigonométricas
+inversas
+En esta sección se dará una explicación del proceso para encontrar valores
+exactos de expresiones como:
+, expresiones que le serán
+necesarias conforme vaya profundizando en el estudio de la matemática
+moderna, específicamente el cálculo infinitesimal.
+Estimado estudiante, acompáñeme en la solución de los siguientes ejemplos,
+donde podrá apreciar el uso de las funciones trigonométricas inversas,
+triángulos rectángulos y el teorema de Pitágoras que le servirán para el
+aprendizaje de los contenidos de esta sección.
+Ejemplo de composición de funciones trigonométricas y sus inversas:
+Encuentre el valor exacto de la expresión
+
+70
+
+UTPL
+
+Figura 19
+Gráfica y explicación de resolución de ejemplo de composición de funciones
+trigonométricas y sus inversas
+
+Nota. Granda, S., 2020.
+
+En la figura 19, se muestra el proceso de resolución de la composición de
+funciones trigonométricas y sus inversas, es necesario que tome en cuenta
+estos procesos para resolver los problemas y ejercicios propuestos en la
+unidad.
+
+Actividades de aprendizaje recomendadas
+
+Compruebe lo aprendido resolviendo las siguientes actividades:
+1. Le recomiendo interactuar con las actividades propuestas en el libro de
+GeoGebra Funciones Trigonométricas inversas y triángulos
+rectángulos. No olvide profundizar y ampliar su conocimiento
+
+71
+
+UTPL
+
+investigando en fuentes adicionales. ¡La investigación es clave para el
+aprendizaje continuo!
+2. Para comprender eficientemente las funciones trigonométricas:
+método del triángulo rectángulo y que además usted desarrolle los
+ejercicios y problemas propuestos en las actividades de práctica
+planteadas en esta semana, le invito a:
+◦ Observar atentamente el video titulado: Trigonometría. Resolver
+triángulos. Alturas.
+En este video se explican las funciones trigonométricas inversas y
+triángulos rectángulos.
+3. Para profundizar en las funciones trigonométricas inversas (seno,
+coseno y tangente inversa), resolver ángulos en triángulos rectángulos
+y evaluar expresiones con funciones trigonométricas inversas, le
+recomiendo consultar los fundamentos teóricos en la sección 6.4 del
+libro Álgebra y Trigonometría de Ramírez (2011) disponibles en la
+biblioteca virtual de la universidad, donde encontrará el contenido
+necesario para abordar eficazmente ejercicios y problemas
+propuestos.
+4. Compruebe lo aprendido resolviendo los ejercicios detallados en Anexo
+1. Ejercicios de funciones trigonométricas inversas y triángulos
+rectángulos
+Nota: por favor complete las actividades en un cuaderno o documento Word.
+
+Con el desarrollo de estas actividades, usted pudo evidenciar su
+aprendizaje acerca de las funciones trigonométricas de ángulos. Si
+encontró alguna dificultad, le recomiendo revisar nuevamente la
+bibliografía y recursos sugeridos para alcanzar los resultados de
+aprendizaje esperados.
+A través del chat de tutoría y consultas puede aclarar sus dudas e
+inquietudes con su docente.
+
+72
+
+UTPL
+
+“El único modo de hacer un gran trabajo, es amar lo que haces”
+¡Siga adelante!
+5. Estimado estudiante, luego de culminar con el estudio de la segunda
+unidad, Funciones Trigonométricas: Método del triángulo rectángulo,
+es recomendable que usted realice la autoevaluación de lo aprendido,
+con la finalidad de retroalimentar aquellas inquietudes más
+importantes.
+
+Autoevaluación 2
+Instrucción: marque la alternativa correcta.
+1. Al convertir el ángulo de 200° en radianes se obtiene:
+a.
+
+b.
+
+c.
+
+2.
+
+Al convertir el ángulo de
+
+en grados se obtiene:
+
+a. 2700
+b. 2700
+c. -7200
+
+73
+
+UTPL
+
+3. Si calculamos la longitud s del arco circular de radio r = 9 y ángulo
+central
+
+, se obtiene:
+
+a.
+
+b.
+
+c.
+
+4. Al calcular el área del sector circular se toma en cuenta un ángulo
+central θ = 0.5 rad y radio r = 10 u y se obtiene:
+a. 2.5 u2
+b. 2.0 u2
+c. 1.5 u2
+5. Si calculamos el ángulo de referencia para θ = -199° obtenemos:
+a.
+b.
+c.
+
+6.
+
+= 750
+= -750
+= 2550
+
+Al calcular el valor exacto de
+
+se obtiene:
+
+a.
+
+74
+
+UTPL
+
+b.
+
+c.
+.
+
+7. Si expresamos tan θ en términos de cos θ, tomando en cuenta que θ
+está en el III cuadrante, se obtiene:
+a.
+
+b.
+
+c.
+
+8. Si conocemos que el ángulo de 72° está entre dos lados de un
+triángulo cuyas longitudes son 7 y 9 respectivamente, podemos
+determinar su área y obtendremos un valor de:
+a. 30 u2
+b. 10 u2
+c. 20 u2
+9.
+El valor exacto de la expresión
+
+en radianes se expresa:
+
+a.
+
+75
+
+UTPL
+
+b.
+c.
+
+10. Al calcular el valor del ángulo en grados, redondeado a un decimal del
+triángulo rectángulo, obtenemos:
+
+a. θ = 36.70
+b. θ = 36.00
+c. θ = 37.00
+Ir al solucionario
+
+76
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 8
+Actividades finales del bimestre
+Le recomiendo llevar a cabo las siguientes actividades, como trabajo previo a
+rendir la evaluación presencial del primer bimestre.
+▪ Actividad 1. Recupere las actividades de aprendizaje calificadas
+desarrolladas durante el primer bimestre.
+▪ Actividad 2. Organice un documento que contenga dicha información
+cuidando la presentación; si lo hizo a mano, puede fotografiar y organizar
+un documento en PDF.
+▪ Actividad 3. Suba el archivo del documento a la EVA en caso de ser
+necesario; este documento le servirá de apoyo para preparar su evaluación
+presencial en esta semana.
+▪ Actividad 4. Revise los contenidos del primer bimestre y participe de la
+evaluación presencial.
+Para ello, considere:
+▪ Su diario de notas.
+▪ Actividades de aprendizaje recomendadas.
+▪ Actividades de aprendizaje calificadas.
+▪ Actividades de aprendizaje interactivas.
+▪ Evaluaciones parciales.
+
+77
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Además de las actividades anteriores, para consolidar sus aprendizajes
+del primer bimestre, y prepararse a la prueba presencial en físico o virtual,
+le sugiero:
+a. Revise cada uno de los conceptos estudiados en las dos unidades
+planificadas y desarrolladas en este primer bimestre.
+b. Realice una variedad de ejercicios y problemas de aplicación
+relacionados con los conceptos, propiedades y leyes abordados en
+cada unidad. Desarrolle los problemas propuestos al final de cada
+sección de esta guía didáctica, así como en la bibliografía sugerida,
+para reforzar su comprensión y dominio del contenido.
+c. Para cada una de las unidades, es valedero que sistematice el
+conocimiento aprendido, a través de la construcción de un mapa
+conceptual o algún otro organizador gráfico que estime conveniente.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“¡Pregúntate si lo que estás haciendo hoy te acerca al lugar en el
+que quieres estar mañana!
+¡Siga adelante!
+
+78
+
+UTPL
+
+Segundo bimestre
+
+Resultado de aprendizaje 1:
+Determina las funciones trigonométricas a través del método de la
+circunferencia o del triángulo rectángulo para modelar y resolver
+problemas cotidianos.
+Con el fin de lograr el resultado de aprendizaje, se destaca la importancia de
+desarrollar la habilidad para determinar funciones trigonométricas mediante el
+método de la circunferencia o del triángulo rectángulo, con el propósito de
+modelar y resolver problemas cotidianos. En este entorno de aprendizaje, se
+profundizará en la comprensión de la Ley del seno y la Ley del coseno, lo que
+contribuirá a enriquecer las herramientas trigonométricas utilizadas para
+abordar situaciones prácticas en la vida diaria.
+Contenidos, recursos y actividades de aprendizaje recomendadas
+Recuerde revisar de manera paralela los contenidos con las actividades de
+aprendizaje recomendadas y actividades de aprendizaje evaluadas.
+
+Semana 9
+Estimado estudiante:
+Bienvenidos al segundo bimestre del curso de Sistemas de conocimiento de
+funciones trigonométricas y su didáctica, en esta segunda parte del periodo
+académico, profundizaremos nuestros conocimientos sobre la Ley del seno y
+del coseno y de la trigonometría analítica, tanto en su componente teórico
+como en sus aplicaciones.
+
+79
+
+UTPL
+
+Con estos conocimientos, se facilitará la comprensión de la pedagogía y
+aplicación de la didáctica y estaremos en condiciones de generar aprendizajes
+significativos en nuestros estudiantes, quienes podrán resolver situaciones de
+la vida real aplicando la trigonometría.
+
+Unidad 3. La ley del seno y coseno
+Estimado profesional en formación, continuamos estudiando y es momento de
+aprender la Ley de senos, estas son fórmulas que le ayudarán a encontrar
+lados y ángulos desconocidos en un triángulo. Le permitirán usar la
+trigonometría en triángulos que no son rectángulos.
+
+3.1 La ley de los senos
+La ley de senos le permitirá hallar los otros dos lados y ángulos de un triángulo
+cuando usted tenga la siguiente información:
+▪ Dos ángulos y un lado.
+▪ Dos lados y un ángulo no incluido entre esos dos lados.
+La Ley de senos puede enunciarse de forma general de la siguiente manera: en
+cualquier triángulo, la razón entre el seno de un ángulo y el lado opuesto a ese
+ángulo es igual a la razón entre el seno de otro ángulo y el lado opuesto a ese
+ángulo.
+Apreciado estudiante, le invito a desarrollar la aplicación de la Ley de senos en
+la resolución de los siguientes ejemplos modelo.
+Ejemplos modelo
+1. Encontrar un ángulo o un lado. Use la ley de senos para encontrar el lado x
+o el ángulo θ indicado.
+
+80
+
+UTPL
+
+Figura 20
+Gráfica y explicación de resolución: ángulo
+
+Nota. Granda, S., 2020.
+
+En la figura 20 se explica la resolución del problema propuesto, a partir de
+los datos presentados en el triángulo del problema, recuerde que se
+procede a determinar el ángulo θ aplicando la Ley de senos, y su
+calculadora debe estar en modo DEG.
+2. La Torre Inclinada de Pisa. El campanario de la catedral de Pisa, Italia, está
+inclinado 5.6° con respecto a la vertical. Una turista está de pie a 105 m de
+su base, con la torre inclinada directamente hacia ella. Esta mide el ángulo
+de elevación a lo alto de la torre y ve que es de 29.2°. Encuentre la longitud
+de la torre al metro más cercano.
+
+81
+
+UTPL
+
+Figura 21
+Gráfica y explicación de resolución: La Torre Inclinada de Pisa
+
+Nota. Granda, S., 2020.
+
+En la figura 21 se explica la resolución del problema propuesto, a partir de los
+datos presentados en el triángulo del problema, recuerde que se procede a
+determinar el ángulo θ aplicando la Ley de senos y su calculadora debe estar
+en modo DEG y consiguiente a esto se determina la longitud de la torre
+despejando el valor de esta de la aplicación de la Ley de senos.
+3.1.1 El caso ambiguo
+Una vez que usted ha interiorizado la Ley de senos en la resolución de
+triángulos oblicuángulos, analizaremos el caso donde para resolver un
+triángulo tenemos lado- lado- ángulo, aquí puede haber dos triángulos, un
+triángulo o ningún triángulo, por esta razón, este caso se denomina caso
+ambiguo.
+En el libro de GeoGebra Triángulos oblicuángulos- Ley de senos , se explica
+detalladamente el caso ambiguo de la ley de senos en triángulos
+oblicuángulos, centrándose en el escenario LLA. Se muestra cómo, según las
+longitudes relativas de los lados, pueden surgir dos posibles soluciones, una
+
+82
+
+UTPL
+
+única solución o ninguna. Revisa este recurso y los ejemplos proporcionados
+para comprender mejor las variaciones del caso ambiguo. ¡Sigamos
+aprendiendo juntos!
+Ejemplo modelo
+1. Caso de una solución
+Use la ley de senos para despejar todos los posibles triángulos que
+satisfacen las condiciones dadas.
+a = 28
+
+b = 15
+
+83
+
+UTPL
+
+Figura 22
+Gráfica y explicación de resolución: caso de una solución
+
+Nota. Granda, S., 2020.
+
+En la figura 22 se explica la resolución del problema propuesto, a partir de
+los datos en el triángulo del problema, recuerde que se procede a
+determinar el ángulo θ aplicando la Ley de senos y su calculadora debe
+estar en modo DEG y consiguiente a esto se determina el cateto faltante
+despejando el valor de esta de la aplicación de la Ley de senos.
+2. Caso de dos soluciones
+b = 25
+
+c = 30
+84
+
+UTPL
+
+Figura 23
+Gráfica y explicación de resolución: caso de dos soluciones
+
+Nota. Granda, S., 2020.
+
+En la figura 23 se explica la resolución del problema propuesto, a partir de
+los datos dados en el triángulo del problema, recuerden que se procede a
+determinar el ángulo θ aplicando la Ley de senos y su calculadora debe
+estar en modo DEG, en este caso, tenemos dos posibles soluciones.
+3. Caso sin solución
+a = 20
+
+c = 45
+
+85
+
+UTPL
+
+Figura 24
+Gráfica y explicación de resolución: caso sin solución
+
+Nota. Granda, S., 2020.
+
+En la figura 24 se explica la resolución del problema propuesto, a partir de
+los datos dados en el triángulo del problema, recuerde que se procede a
+determinar el ángulo θ aplicando la Ley de senos y su calculadora debe
+estar en modo DEG, en este caso observamos que no es posible dar una
+solución.
+Continuemos con el aprendizaje mediante su participación en las actividades
+que se describen a continuación:
+
+Actividad de aprendizaje recomendada
+
+Continuemos con el aprendizaje mediante su participación en las
+siguientes actividades:
+1. Para comprender eficientemente las funciones trigonométricas:
+método del triángulo rectángulo y que además usted desarrolle los
+
+86
+
+UTPL
+
+ejercicios y problemas propuestos en la actividad de práctica
+planteada en esta semana, le invito a:
+◦ Observar atentamente el video titulado Trigonometría. Teorema de
+los senos y teorema del coseno.
+En este vídeo se explica la Ley de senos y su aplicación en la
+solución de problemas del entorno.
+2. Revise la bibliografía de referencia y los recursos proporcionados, con
+especial énfasis en el estudio de la ley de senos y el caso ambiguo. En
+estos materiales encontrará los fundamentos teóricos necesarios para
+resolver todos los ejercicios propuestos.
+3. Escoja y resuelva problemas de aplicación del ejercicio 6.5 del Álgebra
+y Trigonometría de Ramírez (2011) apartado, Aplicaciones, esto le
+brindará habilidades cognitivas de orden superior como plantear,
+aplicar y resolver problemas.
+Nota. Por favor, complete la actividad en un cuaderno o documento Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“La confianza en sí mismo es el primer secreto del éxito”
+¡Siga adelante!
+
+87
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 10
+Unidad 3. La ley del seno y coseno
+3.2 La ley de los cosenos
+Estimado estudiante, continuamos en esta semana con la solución de un
+triángulo oblicuo cuando usted tenga los siguientes casos: dos lados y el
+ángulo entre ellos (LAL) y tres lados (LLL), es aquí donde haremos uso de la
+Ley de los cosenos, por lo que debe revisar el desarrollo del siguiente ejemplo
+modelo, que le servirán de referencia para que usted logre un aprendizaje
+efectivo del tema.
+Problema modelo de aplicación
+Encontrar un lado. Para hallar la distancia de un lado a otro de un pequeño
+lago, un topógrafo ha tomado las mediciones que se ilustran. Encuentre la
+distancia de un lado a otro del lago usando esta información.
+Figura 25
+Gráfica y explicación de resolución: encontrar un lado
+
+Nota. Granda, S., 2020.
+
+88
+
+UTPL
+
+En la figura 25 se explica la resolución del problema propuesto, a partir de los
+datos dados en el triángulo, recuerde usted que se procede a determinar la
+distancia solicitada por medio de la Ley de cosenos, así mismo, para esto su
+calculadora debe estar en modo DEG.
+3.2.1 Navegación: orientación y rumbo
+El rumbo representa la dirección y sentido medidos a partir de los puntos
+cardinales norte o sur, el ángulo y la posición este u oeste. Esta definición será
+usada para resolver el siguiente problema de aplicación.
+Problema modelo de aplicación
+Navegación; el aeropuerto B está a 300 millas del aeropuerto A a un rumbo N
+50°E (vea la figura). Un piloto que desea volar de A a B se equivoca y vuela en
+dirección al este a 200 m/h durante 30 minutos, cuando se da cuenta de su
+error.
+a. ¿A qué distancia está el piloto de su destino en el momento en que se
+percata del error?
+b. ¿Qué rumbo debe tomar su avión para llegar al aeropuerto B?
+
+89
+
+UTPL
+
+Figura 26
+Gráfica y explicación de resolución: navegación
+
+Nota. Granda, S., 2020.
+
+En la figura 26 se explica la resolución del problema propuesto, a partir de los
+datos dados en el triángulo, recuerde estimado estudiante que se procede a
+determinar la distancia y el rumbo solicitados por medio de la Ley de cosenos,
+para esto, su calculadora debe estar en modo DEG.
+
+90
+
+UTPL
+
+3.2.2 El área de un triángulo
+El área de un triángulo se constituye una aplicación importante de la Ley de
+cosenos, esta área se determina por medio de las longitudes de sus lados,
+como se explica en el siguiente problema de aplicación.
+Problema modelo de aplicación
+Valor de un terreno. Un terreno en el centro de Columbia está valuado en $20
+el pie cuadrado. ¿Cuál es el valor de un lote triangular con lados de longitud
+112, 148 y 190 pies?
+
+Ó
+
+Ó
+
+Figura 27
+Gráfica y explicación de resolución: valor de un terreno
+
+Nota. Granda, S., 2020.
+
+En la figura 27 se explica la resolución del problema propuesto, a partir de los
+datos dados en el triángulo, recuerde que se procede a determinar el área
+solicitada por medio de la fórmula de Herón.
+
+91
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Es hora de reforzar los conocimientos adquiridos realizando las siguientes
+actividades:
+1. Para comprender eficientemente la Ley de cosenos y que además
+usted participe del foro académico planteado en esta semana, le
+recomiendo observar atentamente el video titulado: Trigonometría.
+Teorema de los senos y teorema del coseno.
+En este video se explica la Ley del coseno y su aplicación en la
+resolución de problemas de la vida cotidiana.
+2. Elabore un banco de preguntas basándose en los ejercicios y
+problemas propuestos en esta sección, y proceda a resolverlo. A
+medida que avance, supere cualquier dificultad mediante la
+investigación y el apoyo de su docente, quien está disponible para
+ayudarle a profundizar en los conceptos necesarios.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas e
+inquietudes con su docente.
+“La confianza en sí mismo es el primer secreto del éxito”
+¡Siga adelante!
+3. Estimado estudiante, luego de culminar con el estudio de la tercera
+unidad Ley del seno y del coseno, es recomendable que usted realice la
+autoevaluación de lo aprendido, con la finalidad de retroalimentar
+aquellas inquietudes más importantes.
+
+92
+
+UTPL
+
+Autoevaluación 3
+SInstrucción: marque la alternativa correcta.
+1. Si empleamos la Ley de senos para encontrar el lado x del triángulo
+dado, obtenemos:
+
+2. Si empleamos la Ley de senos para encontrar el ángulo θ del triángulo
+dado, obtenemos:
+
+3. Si un piloto está volando sobre una carretera recta. Él determina los
+ángulos de depresión a dos señales de distancia, colocadas a 5 millas
+entre sí, y encuentra que son de 32° y 48°, como se muestra en la
+figura, entonces la distancia entre el avión y el punto A es:
+
+93
+
+UTPL
+
+4. Para hallar la distancia de una orilla a la otra de un río, una experta en
+topografía escoge los puntos A y B, que están a 200 pies entre sí en un
+lado del río (vea la figura). A continuación, ella escoge un punto de
+referencia C en el lado opuesto del río y encuentra que
+La aproximación de la distancia de
+A a C es:
+
+5. Al resolver el triángulo dado aplicando la Ley de senos, el valor del
+ángulo
+
+y el lado
+
+son:
+
+6. Si empleamos la Ley de cosenos para encontrar el lado x del triángulo
+dado, obtenemos:
+
+94
+
+UTPL
+
+7. Si empleamos la Ley de cosenos para encontrar el ángulo θ del
+triángulo dado, obtenemos:
+
+8. Si aplica la fórmula de Herón para determinar el área del triángulo de
+lados, se obtiene:
+
+95
+
+UTPL
+
+9. Si para hallar la distancia de un lado a otro de un pequeño lago, un
+topógrafo ha tomado las mediciones que se ilustran. La distancia de
+un lado a otro del lago usando esta información es:
+
+10. Si un niño está haciendo volar dos cometas al mismo tiempo; tiene 380
+pies de cuerda a una de las cometas y 420 pies para la otra y estima
+que el ángulo entre las dos cuerdas es de 30°. La distancia aproximada
+entre las cometas es:
+
+Ir al solucionario
+
+96
+
+UTPL
+
+Resultado de aprendizaje 2:
+Aplica los principios e identidades fundamentales de la trigonometría
+elemental en el estudio de la trigonometría analítica.
+Para alcanzar este resultado de aprendizaje, se explorarán conceptos
+fundamentales de trigonometría analítica, incluyendo identidades
+trigonométricas, su demostración, y la aplicación de las fórmulas de adición y
+sustracción. También se estudiarán las fórmulas para ángulos dobles y
+semiángulos, la conversión de productos a sumas, y la resolución de
+ecuaciones trigonométricas básicas. Estos conocimientos constituirán la base
+esencial para el análisis avanzado en trigonometría.
+Contenidos, recursos y actividades de aprendizaje recomendadas
+Recuerde revisar de manera paralela los contenidos con las actividades de
+aprendizaje recomendadas y actividades de aprendizaje evaluadas.
+
+Semana 11
+Unidad 4. Trigonometría analítica
+En la presente unidad, estimado (a) profesional en formación, tendrá como
+reto estudiar un enfoque mayormente algebraico a las funciones
+trigonométricas ya tratadas con anterioridad. No solo es importante que usted
+conozca sus características geométricas y/o gráficas para la resolución de
+problemas, si no que, además, deberá conocer las propiedades algebraicas
+que permitan simplificar, y, como consecuencia, demostrar identidades
+trigonométricas. Descubriremos en conjunto cada estrategia empleada para
+llegar a este fin.
+¿Está listo? Pues empecemos, le aseguro que será divertido.
+
+97
+
+UTPL
+
+4.1 Identidades trigonométricas
+A estas alturas, usted ya está familiarizado con muchas de las identidades
+trigonométricas. Le invito a consultar la infografía titulada “Identidades
+trigonométricas fundamentales”, donde se presentan de manera visual para
+referencias en futuros usos.
+Identidades trigonométricas fundamentales
+En la infografía usted puede observar las identidades trigonométricas
+fundamentales, las mismas que le servirán para comprender y aplicar la
+trigonometría analítica, ya sea en la simplificación o demostración de
+identidades.
+4.1.1 Simplificación de una expresión trigonométrica
+Estimado estudiante, para comprender el proceso de simplificación de
+expresiones trigonométricas, es necesario que preste vital atención al
+procedimiento de reescribir la expresión en términos de seno y coseno y la
+combinación de fracciones utilizando común denominador como estrategias
+de simplificación.
+¿Qué le parece, si nos aventuramos a realizar un ejercicio utilizando estos
+conceptos? ¡Vamos!
+Ejercicio. Escribir la expresión trigonométrica en términos de seno y coseno y
+luego simplifique.
+Aplicando
+recíproca
+Aplicando
+denominador
+
+98
+
+Identidad
+
+común
+
+UTPL
+
+Aplicando
+recíproca
+Aplicando
+Pitágoras
+Aplicando
+recíproca
+
+Identidad
+
+identidad
+
+de
+
+Identidad
+
+Actividad de aprendizaje recomendada
+
+Realice las siguientes actividades para reforzar sus conocimientos:
+1. Para comprender eficientemente la trigonometría analítica,
+específicamente la simplificación de expresiones trigonométricas y
+que además usted desarrolle los ejercicios y problemas propuestos en
+la actividad de práctica planteada en esta semana, le recomiendo:
+◦ Observar atentamente el video titulado: Simplificar expresiones
+trigonométricas.
+En este video se explica la trigonometría analítica, específicamente la
+simplificación de expresiones trigonométricas.
+2. Trabaje con la siguiente herramienta Simplificación de expresiones
+trigonométricas que le ofrece una guía práctica y accesible con
+explicaciones y ejemplos que facilitan la simplificación de expresiones
+y resolución de problemas trigonométricos.
+3. Elabore un banco de preguntas basándose en los ejercicios y
+problemas propuestos en esta sección, y proceda a resolverlo. A
+medida que avance, supere cualquier dificultad mediante la
+investigación y el apoyo de su docente, quien está disponible para
+ayudarle a profundizar en los conceptos necesarios.
+99
+
+UTPL
+
+4. Revise la sección 7.1 del libro Álgebra y Trigonometría de Ramírez
+(2011) disponible en la biblioteca virtual de la universidad, donde
+encontrará el contenido necesario para abordar eficazmente ejercicios
+y problemas propuestos.
+Nota. Por favor, complete las actividades en un cuaderno o documento
+Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“El éxito en la vida no se mide por lo que logras, sino por los
+obstáculos que superas”
+¡Siga adelante!
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 12
+Unidad 4. Trigonometría analítica
+4.2 Demostración de identidades trigonométricas
+Ahora abordaremos la parte medular del tema. Una vez que se haya
+familiarizado con la simplificación, podemos demostrar que una ecuación
+trigonométrica representa una identidad. Para que usted realice una correcta
+demostración, debe:
+▪ Empezar con un lado.
+▪ Usar identidades conocidas.
+▪ Convertir a senos y cosenos.
+
+100
+
+UTPL
+
+Adicionalmente a esto, le recomiendo tener claro el uso de operaciones
+reversibles para las demostraciones, como se lo indico en los siguientes
+ejemplos, para que usted comprenda y afiance su conocimiento. ¡Vamos
+entonces!
+Ejercicio. Verifique la identidad planteada.
+
+Empezamos por el lado izquierdo
+
+Aplicando Denominador común
+
+Desarrollando producto notable
+
+Aplicando identidad pitagórica
+
+Sumando y factorizando
+
+Simplificando y aplicando recíproca
+Como podrá apreciar, mientras mayor sea el número de ejercicios que realice,
+las identidades vendrán con mayor facilidad a su mente.
+
+Actividades de aprendizaje recomendadas
+
+Reforcemos el aprendizaje realizando la siguiente actividad:
+1. Para comprender eficientemente la trigonometría analítica,
+específicamente la demostración de identidades trigonométricas y que
+
+101
+
+UTPL
+
+además usted responda el cuestionario propuesto en línea en esta
+semana, recomiendo:
+◦ Observar atentamente el video titulado: Identidades
+trigonométricas.
+En este video se explica la trigonometría analítica, específicamente la
+simplificación de expresiones trigonométricas.
+2. Trabaje con la herramienta Identidades Trigonométricas que le ofrece
+una guía práctica y accesible con explicaciones y ejemplos que
+facilitan la demostración de identidades.
+3. Elabore un banco de preguntas basado en los ejercicios y problemas
+propuestos en esta sección y resuélvalo, superando cualquier dificultad
+mediante la investigación y consulta con su docente.
+4. Revise la sección 7.1 del libro Álgebra y Trigonometría de Ramírez
+(2011), disponible en la biblioteca virtual de la universidad, donde
+encontrará el contenido necesario para abordar eficazmente ejercicios
+y problemas propuestos.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“El éxito depende de la preparación previa, y sin ella seguro que
+llegue el fracaso”
+Confucio
+¡Siga adelante!
+
+102
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 13
+Unidad 4. Trigonometría analítica
+Esta semana, estimado(a) profesional en formación, abordaremos las
+fórmulas de adición y sustracción. A medida que avanzamos, reconocerá que
+estas fórmulas son fundamentales tanto en cálculo como en física, y
+complementan lo aprendido previamente. Aprecio sinceramente la dedicación
+y el esfuerzo que ha demostrado hasta ahora, y le animo a continuar con el
+mismo entusiasmo en el estudio de estas interesantes temáticas.
+
+4.3 Fórmulas de adición y sustracción
+4.3.1 Fórmula de adición y sustracción
+Estimado estudiante, esta semana se abordarán las fórmulas de adición y
+sustracción para el seno, coseno y tangente. Es fundamental que analice la
+demostración de cada una de estas fórmulas, presentada en la herramienta
+Trigonometría: seno de la suma y la diferencia de dos ángulos, a partir de este
+análisis, podrá identificar las claves necesarias para resolver los ejercicios de
+aplicación correspondientes a esta unidad.
+Una vez afianzados en las bases de las fórmulas de adición y sustracción,
+avancemos a realizar juntos el siguiente ejemplo práctico.
+Ejercicio. Encuentre el valor exacto de la expresión:
+
+Como
+
+, aplicando la fórmula de la adición seno da
+
+103
+
+UTPL
+
+4.3.2 Evaluación de expresiones que contienen funciones trigonométricas
+inversas
+A lo largo de esta semana nos adentraremos en el estudio de las expresiones
+que involucran funciones trigonométricas inversas. Analizaremos
+detenidamente el proceso a seguir para evaluarlas correctamente. A
+continuación, presentamos un ejemplo ilustrativo:
+
+Sea
+
+y
+
+, y utilizando los triángulos como estrategia
+
+que se muestran en la siguiente figura:
+Figura 28
+Triángulos
+
+Nota. Tomado de Evaluación de expresiones que contienen funciones trigonométricas
+inversas [Ilustración], por Granda, S., 2020, p.106, EdiLoja.CC BY 4.0.
+
+De los triángulos tenemos:
+
+104
+
+UTPL
+
+De la fórmula de la sustracción para cosenos se tiene:
+
+Actividades de aprendizaje recomendadas
+
+Le invito a reforzar sus conocimientos realizando las siguientes
+actividades:
+1. Para comprender eficientemente la trigonometría analítica,
+específicamente las fórmulas de adición y sustracción y que además
+usted participe correctamente del foro académico propuesto en esta
+semana, le recomiendo:
+◦ Observar atentamente el video Identidad Trigonométrica de la suma
+y resta de ángulos. Esta herramienta le permitirá repasar los
+conceptos de la semana y aclarar sus dudas.
+2. A partir de la página 512 del texto Álgebra y Trigonometría de Ramírez
+(2011), disponible en la biblioteca virtual, podrá profundizar en los
+contenidos estudiados esta semana. Esta referencia le proporcionará
+las herramientas necesarias para resolver ejercicios y problemas de
+aplicación.
+3. Elabore y resuelva un banco de preguntas basándose en el fundamento
+teórico, ejercicios y problemas de esta guía y la bibliografía sugerida,
+superando las dificultades mediante la investigación y la consulta con
+su docente.
+
+105
+
+UTPL
+
+Nota. Por favor, complete las actividades en un cuaderno o documento
+Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“El éxito en la vida no se mide por lo que logras, sino por los
+obstáculos que superas”
+Confucio.
+¡Siga adelante!
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 14
+Unidad 4. Trigonometría analítica
+4.4 Fórmulas de ángulo doble, semiángulo y producto a suma
+Esta semana trataremos las fórmulas de ángulos múltiples, derivadas de las
+fórmulas de adición. En la herramienta Open Stax se encuentran estas
+fórmulas y sus demostraciones, por lo que es importante revisar este material
+y los ejemplos resueltos con atención. Luego, analizaremos los problemas de
+esta guía didáctica, para apoyar su aprendizaje exitoso en esta asignatura.
+
+106
+
+UTPL
+
+4.4.1 Fórmulas de ángulo doble
+Tabla 8
+Fórmulas de ángulo doble
+Fórmula de seno
+
+Fórmula de coseno
+
+Fórmula de tangente
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 554), por Stewart, Redlin y
+Watson, 2017, México, D.F., Cengage Learning Editores, S.A.
+
+En esta tabla usted puede observar las fórmulas del ángulo doble, las mismas
+que le servirán para comprender y aplicar la trigonometría analítica en la
+demostración de identidades que contengan ángulos dobles y posteriormente
+para resolver ecuaciones trigonométricas.
+Ejemplo modelo
+Encuentre sin 2x, cos 2x y tan 2x a partir de la información dada.
+
+107
+
+UTPL
+
+Figura 29
+Explicación de Resolución: sin 2x, cos 2x y tan 2x
+
+Nota. Granda, S., 2020.
+
+108
+
+UTPL
+
+En la figura 29 se explica la resolución del problema propuesto a partir de los
+datos presentados. Recuerde estimado estudiante que se procede a
+determinar la solución empleando las fórmulas del ángulo doble.
+4.4.2 Fórmulas de semiángulo
+Figura 30
+Fórmulas de semiángulo
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 556) [Ilustración], por
+Stewart, J. Redlin, L. y Watson, S., 2012, Cengage Learning Editores, CC BY 4.0.
+
+En esta figura se presentan las fórmulas de semiángulo, las cuales serán útiles
+para comprender y aplicar la trigonometría analítica en la demostración de
+identidades con semiángulos y, posteriormente, en la resolución de
+ecuaciones trigonométricas.
+Ejemplo modelo
+Use una fórmula de semiángulo apropiada para encontrar el valor exacto de la
+expresión tan 15º.
+Solución: ya que 15º es la mitad de 30º, usted debe utilizar la fórmula de
+semiángulo de la tangente con u = 30º, debe escoger el signo + porque 15º
+está en el primer cuadrante.
+
+109
+
+UTPL
+
+4.4.3 Evaluación de expresiones que contienen funciones trigonométricas
+inversas
+Evaluar una expresión que tiene funciones trigonométricas inversas es una
+aplicación del uso de las fórmulas de los ángulos múltiples, esto se explica por
+medio del siguiente ejemplo modelo.
+Ejemplo modelo
+Escriba la expresión
+
+como una expresión algebraica en .
+
+Figura 31
+Explicación de Resolución:
+
+Nota. Granda S., 2020.
+
+110
+
+UTPL
+
+En esta figura se presentan las fórmulas de semiángulo, las cuales serán útiles
+para comprender y aplicar la trigonometría analítica en la demostración de
+identidades con semiángulos y, posteriormente, en la resolución de
+ecuaciones trigonométricas.
+4.4.4 Fórmulas de producto a suma
+Figura 32
+Fórmulas de producto a suma
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 557) [Ilustración], por
+Stewart, J. Redlin, L. y Watson, S., 2012, Cengage Learning Editores, CC BY 4.0.
+
+En esta figura usted puede observar las fórmulas del producto a suma que le
+servirán para comprender y aplicar la trigonometría analítica en la
+demostración de identidades que necesiten de estas fórmulas y
+posteriormente para resolver ecuaciones trigonométricas.
+Ejemplo modelo
+Escriba el producto como una suma: cos x sin 4
+
+111
+
+UTPL
+
+Actividad de aprendizaje recomendada
+
+Es hora de reforzar los conocimientos adquiridos realizando las siguientes
+actividades:
+1. Para lograr un aprendizaje significativo en trigonometría analítica,
+especialmente en las fórmulas de ángulo doble, semiángulo y producto
+a suma, le recomiendo profundizar en la comprensión de estos
+conceptos y su aplicación práctica. Este enfoque le permitirá
+desarrollar habilidades sólidas para el análisis y la resolución de
+problemas trigonométricos.
+2. Observar atentamente el video Deducción de las fórmulas de ángulo
+doble y ángulo mitad. Este video le será de gran utilidad para reforzar el
+aprendizaje de trigonometría analítica, ya que proporciona
+explicaciones visuales y detalladas de las fórmulas clave. Además,
+facilita un aprendizaje significativo al complementar la teoría con
+ejemplos prácticos desarrollados paso a paso.
+3. Revise la sección 7.3 de Álgebra y Trigonometría de Ramírez (2011) en
+la biblioteca virtual, donde encontrará teoría fundamental sobre
+fórmulas de ángulo doble, semiángulo y producto a suma para resolver
+ejercicios y problemas aplicados.
+4. Elabore y resuelva un banco de preguntas basándose en el fundamento
+teórico, ejercicios y problemas de esta guía y la bibliografía sugerida,
+superando las dificultades mediante la investigación y la consulta con
+su docente.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“Detrás de cada equivocación hay una enseñanza”
+¡Siga adelante!
+
+112
+
+UTPL
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 15
+Unidad 4. Trigonometría analítica
+4.5 Ecuaciones trigonométricas básicas
+En esta última etapa del curso, abordaremos un tema fundamental en
+trigonometría: la resolución de ecuaciones trigonométricas. A partir de los
+conceptos estudiados previamente, estableceremos las bases teóricas y
+aplicaremos diversas técnicas para encontrar las soluciones de estas
+ecuaciones.
+4.5.1 Ecuación trigonométrica
+Es una ecuación que contiene expresiones trigonométricas, las identidades
+con cada número (o ángulo) en el dominio de la variable solución que ya
+estudiamos, son ejemplos de estas ecuaciones. Si una ecuación
+trigonométrica no es identidad, con frecuencia hallamos soluciones mediante
+el uso de técnicas semejantes a las empleadas para ecuaciones algebraicas,
+es decir, una ecuación de la forma T ( θ ) = c, donde T es una función
+trigonométrica y c es una constante.
+Ejemplo modelo
+1. Resuelva la ecuación
+Para que usted solucione este tipo de ecuaciones, tiene dos posibilidades:
+i. Encontrar las soluciones en un periodo.
+Como es de su conocimiento, el seno tiene un periodo de 2π, lo que
+debe hacer es encontrar la solución en cualquier intervalo de longitud
+2π. Recuerde los valores de las funciones trigonométricas del ángulo
+de 30º y 60º.
+
+113
+
+UTPL
+
+Tabla 9
+Valores de las funciones trigonométricas
+Valores de las funciones trigonométricas
+
+Nota. Tomado de Precálculo. Matemáticas para el cálculo (p. 404), por Stewart,
+Redlin y Watson, 2017, México, D.F., Cengage Learning Editores, S.A.
+
+En la tabla 9 se indican los valores de las funciones trigonométricas,
+ángulos especiales de 30º y 60º, así como de sus funciones
+trigonométricas inversas, estas le serán de gran utilidad al momento
+de resolver problemas de aplicación de la trigonometría analítica.
+Entonces
+
+, tiene que
+
+tener presente la circunferencia unitaria
+
+donde en el
+
+primer y segundo cuadrante, así usted puede deducir que las
+soluciones en el intervalo [ 0,2π ] son:
+
+ii. Encontrar todas las soluciones.
+Como usted sabe, la función seno repite sus valores cada 2π unidades,
+entonces las soluciones de esta ecuación se obtienen sumando
+múltiplos enteros de 2π a las soluciones encontradas.
+
+114
+
+UTPL
+
+4.5.2 Solución de ecuaciones trigonométricas por factorización
+Si emplea la factorización para resolver una ecuación trigonométrica, estará
+empleando una de las técnicas más útiles para resolver una ecuación, como lo
+explicaré en el siguiente ejemplo.
+Resuelva la ecuación dada 4 cos 2θ - 4 cos θ + 1 = 0
+Solución: procede a factorizar el lado izquierdo de la ecuación, ya que se trata
+de un trinomio cuadrado perfecto.
+
+Ahora debemos considerar que el coseno tiene un periodo 2π y debe
+encontrar las soluciones en el intervalo [ 0,2π ] que son
+
+;
+
+, a esto
+
+agregarle todas las soluciones posibles, tomando en cuenta que el periodo del
+coseno se repite cada 2π y obtendríamos las soluciones finales.
+;
+
+.
+
+Actividades de aprendizaje recomendadas
+
+Realice las siguientes actividades para reforzar sus conocimientos:
+1. Para comprender eficientemente los procesos de solución de
+ecuaciones trigonométricas básicas, como parte de la trigonometría
+analítica, y que usted desarrolle los ejercicios y resuelva los problemas
+
+115
+
+UTPL
+
+propuestos en la actividad experimental planificada en esta semana, le
+recomiendo:
+a. Estudiar detenidamente el video Ecuaciones trigonométricas. En
+este material se aborda de manera exhaustiva la definición de
+ecuaciones trigonométricas, los métodos de resolución y el
+número de soluciones posibles. Además, se realiza un repaso de
+conceptos fundamentales como el círculo trigonométrico, ángulos
+notables e identidades trigonométricas.
+b. Para profundizar en el estudio de las ecuaciones trigonométricas
+básicas, se recomienda consultar la sección 7.4 del texto Álgebra
+y Trigonometría de Ramírez (2011) disponible en la biblioteca
+virtual. En este apartado encontrará los fundamentos teóricos
+necesarios para abordar la resolución de ejercicios y problemas
+aplicados.
+2. Elabore y resuelva un banco de preguntas basándose en el fundamento
+teórico, ejercicios y problemas de esta guía y la bibliografía sugerida,
+superando las dificultades mediante la investigación y la consulta con
+su docente.
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas e
+inquietudes con su docente.
+“Detrás de cada equivocación hay una enseñanza”
+¡Siga adelante!
+3. Estimado estudiante, luego de culminar con el estudio de la cuarta
+unidad, Trigonometría Analítica, es recomendable que usted realice la
+autoevaluación de lo aprendido, con la finalidad de retroalimentar
+aquellas inquietudes más importantes.
+
+116
+
+UTPL
+
+Autoevaluación 4
+Instrucción: marque la alternativa correcta.
+1. Si escribe la expresión trigonométrica tan2x - sec2x en términos de
+seno y coseno y luego la simplifica, usted obtiene:
+a. 1
+b. -1
+c. 0
+2. Si escribe la expresión trigonométrica cos2θ (1 + tan2x) en términos de
+seno y coseno y luego la simplifica, usted obtiene:
+a. 1
+b. -1
+c. 0
+3.
+Al simplificar la expresión
+
+se obtiene:
+
+a. tan tan y
+b. cos cos y
+c. y
+4.
+Si usted verifica la identidad,
+
+la
+
+demostración correcta es:
+a.
+
+b.
+
+117
+
+UTPL
+
+c.
+
+5. Si usa las fórmulas para la adición de ángulos, el valor exacto de 75º
+es:
+a.
+
+b.
+
+c.
+
+6. Si usa las fórmulas para la adición de ángulos, el valor exacto de
+es:
+
+a.
+
+b.
+
+c.
+
+7. Si usa la fórmula de semiángulo apropiada, el valor exacto de la
+expresión 15º es:
+a.
+
+118
+
+UTPL
+
+b.
+
+c.
+
+8. Si aplica la fórmula de ángulo doble conveniente y considera que
+está en el cuadrante I, el valor del 2x es:
+
+a.
+
+b.
+
+c.
+
+9. Si resuelve la ecuación . se obtiene las siguientes soluciones:
+a.
+
+b.
+
+c.
+
+y
+
+y
+
+y
+
+10. Si resuelve la ecuación trigonométrica tan tan = 2.5 obtiene:
+a. θ = 1.91, θ = 1.19 + 2kπ
+b. θ = 1.91, θ = 1.19 + kπ
+c. θ = 2.91, θ = 1.19 + kπ
+
+119
+
+UTPL
+
+Ir al solucionario
+
+Contenidos, recursos y actividades de aprendizaje recomendadas
+
+Semana 16
+Actividades finales del bimestre
+Le recomiendo llevar a cabo las siguientes actividades, como trabajo previo a
+rendir la evaluación presencial del segundo bimestre.
+▪ Actividad 1. Recupere las actividades de aprendizaje calificadas
+desarrolladas durante el segundo bimestre.
+▪ Actividad 2. Organice un documento que contenga dicha información
+cuidando la presentación; si lo hizo a mano, puede fotografiar y organizar
+un documento en PDF.
+▪ Actividad 3. Suba el archivo del documento a la EVA caso de ser necesario;
+este documento le servirá de apoyo para preparar su evaluación presencial
+en esta semana.
+▪ Actividad 4. Revise los contenidos del segundo bimestre y participe de la
+evaluación presencial.
+Para ello, considere:
+▪ Su diario de notas.
+▪ Actividades de aprendizaje recomendadas.
+▪ Actividades de aprendizaje calificadas.
+▪ Actividades de aprendizaje interactivas.
+▪ Evaluaciones parciales.
+
+120
+
+UTPL
+
+Actividades de aprendizaje recomendadas
+
+Además de las actividades anteriores, para consolidar sus aprendizajes
+del segundo bimestre, y prepararse a la prueba presencial en físico o
+virtual, le sugiero:
+a. Revise cada uno de los conceptos estudiados en las dos unidades
+planificadas y desarrolladas en este segundo bimestre.
+b. Realice suficientes ejercicios y problemas de aplicación de los
+diferentes conceptos, propiedades y leyes, de cada una de las unidades
+estudiadas, desarrollando los problemas propuestos en la bibliografía y
+recursos sugeridos.
+c. Para cada una de las unidades, es valedero que sistematice el
+conocimiento aprendido, a través de la construcción de un mapa
+conceptual o algún otro organizador gráfico que estime conveniente.
+
+A través del chat de tutoría y consultas puede aclarar sus dudas
+e inquietudes con su docente.
+“La derrota no es el peor de los fracasos. No intentarlo es el
+verdadero fracaso”
+George Edward Woodber.
+
+121
+
+UTPL
+
+4. Autoevaluaciones
+Autoevaluación 1
+Pregunta
+
+Respuesta
+
+Retroalimentación
+se encuentra ubicado en el segundo cuadrante y es
+
+1
+
+c
+
+coterminal con el ángulo
+
+, un ángulo especial por lo que sus
+
+coordenadas son
+
+.
+
+2
+
+a
+
+t se encuentra en el tercer cuadrante por lo que
+
+3
+
+c
+
+P (x, y) está en el eje negativo de x.
+
+4
+
+a
+
+El punto P está en el segundo cuadrante x=-20/29, y=21/29 y r=1.
+
+5
+
+a
+
+6
+
+a
+
+7
+
+a
+
+8
+
+b
+
+9
+
+c
+
+La curva tiene |a|=|2|=2, periodo
+
+10
+
+b
+
+La función debe tener la forma cos(ωt) y ω=2πf=2π(3)=6π, así
+obtenemos
+cos cos 6πt
+
+El número de referencia
+
+y
+
+.
+
+está en el segundo
+
+cuadrante, por lo que la coordenada en x es negativa.
+Ya que la amplitud de la función |a|=|1|=1 y el periodo
+desplazamiento horizontal
+
+, y el
+
+a la derecha.
+
+Se observa en la gráfica |a|=4 Periodo=2π b=0.
+La curva tiene |a|=|-4|=4, periodo
+izquierda
+
+y desfase a la
+
+.
+y frecuencia
+
+.
+
+Ir a la autoevaluación
+
+122
+
+UTPL
+
+Autoevaluación 2
+Pregunta
+
+Respuesta
+
+1
+
+a
+
+2
+
+b
+
+3
+
+c
+
+4
+
+a
+
+5
+
+a
+
+6
+
+a
+
+Retroalimentación
+
+Para convertir de grados a radianes procedemos así:
+
+entonces A=2.5u².
+El ángulo dado está en el tercer cuadrante, por el ángulo de
+referencia 180°-105°=75°.
+Este ángulo tiene su lado terminal en el segundo cuadrante, por lo
+tanto, el ángulo de referencia
+es entonces el
+sen
+
+7
+
+c
+
+.
+
+Empleando las identidades fundamentales y pitagóricas tenemos:
+y sen2 θ +
+cos2 θ =1. Despejando
+finalmente
+
+8
+
+a
+
+9
+
+b
+
+10
+
+a
+
+.
+
+El triángulo tiene lados de longitud de 7 y 9 unidades, con un
+ángulo entre ellos de 72°, por tanto:
+El ángulo en el intervalo
+
+con
+
+es
+
+Por
+
+tanto,
+Empleando las funciones trigonométricas
+entonces
+
+Ir a la autoevaluación
+
+123
+
+UTPL
+
+Autoevaluación 3
+Pregunta Respuesta Retroalimentación
+Determinamos el ángulo C=180°-98.4°-24.6°=57° y aplicamos la Ley de senos
+
+1
+
+a
+
+2
+
+b
+
+3
+
+b
+
+Empleando Ley de senos
+
+entonces:
+
+4
+
+a
+
+Empleando Ley de senos
+
+entonces:
+
+5
+
+b
+
+Al tratarse de un triángulo isósceles el
+
+6
+
+a
+
+Empleando la Ley de Cosenos x² = c² + b² - 2(c)(b) cos 39º
+
+7
+
+a
+
+8
+
+b
+
+9
+
+b
+
+.
+Determinamos el ángulo θ aplicando la ley de senos
+
+obtenemos:
+
+y al emplear la ley de senos.
+.
+
+Empleando la Ley de Cosenos b² = a² + c² - 2ac cos θ, θ =
+.
+Para emplear la fórmula de Herón debemos determinar el semiperímetro
+y luego.
+Empleando la Ley de cosenos AB² = CB² + CA² - 2(CB)(CA) cos 40.3º
+.
+
+124
+
+Pregunta Respuesta Retroalimentación
+10
+
+c
+
+Empleamos la Ley de Cosenos.
+Ir a la autoevaluación
+
+125
+
+Autoevaluación 4
+Pregunta
+
+Respuesta
+
+Retroalimentación
+Empleando las identidades trigonométricas fundamentales
+
+1
+
+b
+
+Empleando
+2
+
+las
+
+identidades
+
+trigonométricas
+
+fundamentales
+
+b
+
+Empleando las identidades trigonométricas fundamentales
+3
+
+4
+
+a
+
+c
+
+Se verifica la identidad. En el proceso de demostración, se busca
+respaldar la igualdad entre las expresiones matemáticas
+vinculadas, aplicando de manera adecuada las reglas y
+propiedades pertinentes.
+Empleando la fórmula (s+t) = s cos cos t + cos cos s sin sin t
+(45°+30°) = 45° cos cos 30 + cos cos 45° sen sen 30
+(45°+30°) = 45° cos cos 30° + cos cos 45° sen sen 30
+
+5
+
+b
+
+Empleando la fórmula (s+t) = s cos cos t + cos cos s sen sen t
+
+6
+
+a
+
+126
+
+UTPL
+
+Pregunta
+
+Respuesta
+
+Retroalimentación
+Empleando la fórmula del semiángulo
+
+7
+
+b
+
+Si el
+8
+
+está en el cuadrante I se determina
+entonces cos cos
+
+a
+
+2x = 2 sen sen x
+
+cos cos x
+Dado que el seno tiene un periodo 2π, primero se encuentra la
+solución en el intervalo [0,2π[,
+9
+
+b
+
+Encontramos la solución en un periodo
+10
+
+b
+
+, tan tan θ = 2.5,
+
+tomando en cuenta que la tangente
+tiene periodo π obtenemos todas las soluciones de la ecuación al
+sumar múltiplos enteros de π así θ=1.19+kπ representa todas las
+posibles soluciones.
+Ir a la autoevaluación
+
+127
+
+UTPL
+
+5. Referencias bibliográficas
+Cole, J. A. & A. Cole, J. (2011). Álgebra y trigonometría con geometría
+analítica: (13 ed.). Cengage Learning. https://elibro.net/es/lc/
+bibliotecautpl/titulos/39963
+Stewart, J. Redlin, L. y Watson, S. (2012). Precálculo. Matemáticas para
+el cálculo. México, D.F. Cengage Learning Editores, S.A. de C.V.
+Islas Salomón, C. A. Colín Uribe, M. P. & Morales Téllez, F. (2017).
+Geometría y trigonometría: (ed.). Grupo Editorial Éxodo. https://
+elibro.net/es/ereader/bibliotecautpl/130339
+Stewart, J. Redlin, L. y Watson, S. (2012). Precálculo. Matemáticas para
+el cálculo. México, D.F. Cengage Learning Editores, S.A. de C.V.
+Demana, F. Waits, B. Foley, G. y Kennedy, D.(2007). Precálculo. Gráfico,
+numérico, algebraico. México, D.F. Pearson Educación de México,
+S.A. de C.V.
+Swokowski, E. y Cole, J. (2009). Algebra y Trigonometría con Geometría
+Analítica. México, D.F. Cengage Learning Editores, S.A. de C.V.
+
+128
+
+UTPL
+
+6. Anexos
+
+129
+
+UTPL
+
+Anexo 1. Ejercicios funciones trigonométricas inversas ytriángulos
+rectángulos
+Conteste según corresponda:
+1.
+
+2.
+
+3.
+
+Para que una función tenga inversa debe ser
+Para definir la función inversa restringimos el
+de la función seno al intervalo
+
+.
+.
+
+Las funciones seno inverso, coseno inverso y tangente inversa tienen
+los siguientes dominios y rangos.
+1.
+
+La función sen-1 tiene dominio
+.
+
+y rango
+
+2.
+
+La función cos-1 tiene dominio
+.
+
+y rango
+
+3.
+
+La función tan-1 tiene dominio
+.
+
+y rango
+
+En el triángulo que se muestra podemos encontrar el ángulo como
+sigue.
+
+a. θ = sen-1
+b. θ = cos-1
+c. θ = tan-1
+
+4.
+
+Para encontrar
+hacemos que
+y se
+completa el triángulo rectángulo que se encuentra en la parte
+superior de la siguiente columna. Se encuentra que
+
+Nota. Por favor, complete las actividades en un cuaderno o documento Word.
+
+
