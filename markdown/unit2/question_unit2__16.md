@@ -1,5 +1,6 @@
 ---
 type: conocimiento
+reference:
 ---
 
 Ordene los pasos **desordenados** para demostrar la identidad trigonométrica:  

@@ -1,5 +1,6 @@
 ---
-type: conocimiento  
+type: conocimiento
+reference:
 ---
 
 ¿Cuál es el orden correcto para resolver una expresión trigonométrica?

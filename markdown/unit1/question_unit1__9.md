@@ -1,5 +1,6 @@
 ---
 type: conocimiento
+reference: 
 ---
 
 ¿Cuál es el número de referencia asociado a $t = \frac{7\pi}{6}$?

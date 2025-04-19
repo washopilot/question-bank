@@ -1,5 +1,6 @@
 ---
 type: comprensión
+reference:
 ---
 
 Si $\sin(\theta) = \frac{\sqrt{3}}{2}$ y $\theta$ está en el primer cuadrante, escriba $\theta$ en radianes.

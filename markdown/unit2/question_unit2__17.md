@@ -1,5 +1,6 @@
 ---
 type: análisis
+reference:
 ---
 
 Analice las siguientes afirmaciones sobre la función $f(x) = 2\sin(3x - \frac{\pi}{4}) + 1$:

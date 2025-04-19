@@ -1,5 +1,6 @@
 ---
 type: comprensión
+reference:
 ---
 
 Complete la siguiente afirmación sobre funciones trigonométricas inversas:

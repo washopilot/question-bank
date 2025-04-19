@@ -1,5 +1,6 @@
 ---
 type: conocimiento
+reference:
 ---
 
 Cuál es el valor exacto de $\tan\left(\frac{\pi}{4}\right)$.

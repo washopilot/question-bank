@@ -1,5 +1,6 @@
 ---
 type: comprensión
+reference:
 ---
 
 Relacione cada método (Columna A) con su uso (Columna B):
