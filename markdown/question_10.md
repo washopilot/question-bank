@@ -1,5 +1,5 @@
 ---
-nivel: conocimiento
+type: conocimiento
 ---
 
 ¿Cuál es el valor exacto de $\cos\left(\frac{\pi}{3}\right)$?

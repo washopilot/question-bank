@@ -1,5 +1,5 @@
 ---
-nivel: conocimiento
+type: conocimiento
 ---
 
 Ordene los siguientes pasos para resolver una expresión trigonométrica:

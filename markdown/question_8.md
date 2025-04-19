@@ -1,5 +1,5 @@
 ---
-nivel: conocimiento
+type: conocimiento
 ---
 
 Ordene los pasos **desordenados** para demostrar la identidad trigonométrica:  

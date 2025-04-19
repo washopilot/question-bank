@@ -1,5 +1,5 @@
 ---
-nivel: análisis
+type: análisis
 ---
 
 Dado que $\tan(x) = \frac{\sin(x)}{\cos(x)}$ y $\sec(x) = \frac{1}{\cos(x)}$, ¿cuál de las siguientes expresiones es equivalente a $\tan(x) \cdot \sec(x)$?

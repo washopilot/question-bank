@@ -1,5 +1,5 @@
 ---
-nivel: comprensión
+type: comprensión
 ---
 
 Relacione cada método (Columna A) con su uso (Columna B):

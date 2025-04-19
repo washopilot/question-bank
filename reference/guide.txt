@@ -15,7 +15,7 @@ Trigonométricas y su Didáctica
 Guía didáctica
 
 PAO
-Nivel
+type
 
 Carrera
 

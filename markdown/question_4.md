@@ -1,5 +1,5 @@
 ---
-nivel: comprensión
+type: comprensión
 ---
 
 Complete la siguiente afirmación sobre identidades trigonométricas:
