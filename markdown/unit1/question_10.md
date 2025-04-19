@@ -9,7 +9,8 @@ type: conocimiento
 3. $\frac{5\pi}{6}$  
 4. $\frac{\pi}{4}$  
 
-**Respuesta correcta:** 1  
+**Respuesta correcta:** 1
+ 
 **Retroalimentación:**  
 Para determinar el número de referencia $\bar{t}$:
 1. $\frac{7\pi}{6}$ está en el tercer cuadrante ($\pi < t < \frac{3\pi}{2}$)

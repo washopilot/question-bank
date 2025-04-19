@@ -1,5 +1,6 @@
 ---
 type: aplicación
+reference:
 ---
 
 Si el punto terminal $P$ determinado por $t = \frac{\pi}{3}$ en la circunferencia unitaria tiene coordenadas $\left(\frac{1}{2}, \frac{\sqrt{3}}{2}\right)$, ¿cuál es el valor exacto de $\sec(t)$?
@@ -9,7 +10,8 @@ Si el punto terminal $P$ determinado por $t = \frac{\pi}{3}$ en la circunferenci
 3. $\frac{\sqrt{3}}{2}$  
 4. $\frac{1}{2}$  
 
-**Respuesta correcta:** 1  
+**Respuesta correcta:** 1
+
 **Retroalimentación:**  
 Para resolver este problema:
 

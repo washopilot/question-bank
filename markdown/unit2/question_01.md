@@ -4,11 +4,11 @@ reference: Esta definición se encuentra en la guía didáctica, sección 2.1.1.
 ---
 ¿Cuál es la definición correcta de un radián?
 
-a) La medida de un ángulo central que subtiende un arco igual a la mitad del radio.
-b) La medida de un ángulo central que subtiende un arco cuya longitud es igual al radio del círculo.
-c) La medida de un ángulo equivalente a 180 grados dividido por pi.
-d) La medida de un ángulo formado por dos radios perpendiculares.
+1. La medida de un ángulo central que subtiende un arco igual a la mitad del radio.
+2. La medida de un ángulo central que subtiende un arco cuya longitud es igual al radio del círculo.
+3. La medida de un ángulo equivalente a 180 grados dividido por pi.
+4. La medida de un ángulo formado por dos radios perpendiculares.
 
-**Solución:** b
+**Solución:** 2
 
 **Retroalimentación:** Un radián se define como la medida del ángulo central de un círculo que interseca un arco de longitud igual al radio del círculo. 

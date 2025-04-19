@@ -1,5 +1,6 @@
 ---
 type: conocimiento
+reference:
 ---
 
 ¿Cuál es la definición correcta de la circunferencia unitaria en el contexto de funciones trigonométricas?

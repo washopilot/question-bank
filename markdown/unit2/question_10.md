@@ -4,12 +4,12 @@ reference: Guía didáctica, sección 2.1.5
 ---
 Una rueda con un radio de 0.5 metros gira a 120 revoluciones por minuto (rpm). ¿Cuál es la velocidad lineal de un punto en el borde de la rueda, en metros por segundo?
 
-a) 1 m/s
-b) $2\pi$ m/s
-c) $4\pi$ m/s
-d) $8\pi$ m/s
+1. 1 m/s
+2. $2\pi$ m/s
+3. $4\pi$ m/s
+4. $8\pi$ m/s
 
-**Solución:** b
+**Solución:** 2
 
 **Retroalimentación:** 
 
@@ -21,6 +21,4 @@ $\omega = \frac{120 \times 2\pi}{60} \frac{\text{rad}}{\text{s}} = 4\pi \text{ r
 
 Luego, usamos la fórmula de la velocidad lineal $v = r\omega$.
 
-$v = (0.5 \text{ m}) \times (4\pi \text{ rad/s})$
-
-$v = 2\pi \text{ m/s}$
+$v = (0.5 \text{ m}) \times (4\pi \text{ rad/s}) = 2\pi \text{ m/s}$
