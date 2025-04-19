@@ -1,57 +1,39 @@
 ﻿RESULTADO DE APRENDIZAJE: Determina las funciones trigonométricas a través del método de la circunferencia o del triángulo rectángulo para modelar y resolver problemas cotidianos. 
 
 UNIDAD 1: Funciones trigonométricas: método de la circunferencia unitaria.
- 1.1 La circunferencia unitaria.
- 1.1.1 Puntos terminales en la circunferencia
- 1.1.2 El número de referencia
-
-1.2 Funciones trigonométricas de números reales
- 1.2.1 Las Funciones trigonométricas 
-1.2.2 Valores de las funciones trigonométricas 
-1.2.3 Identidades fundamentales 
-
-1.3 Gráficas trigonométricas.
- 1.3.1 Gráficas de las funciones seno y coseno 
-
-1.3.2 Gráficas de transformaciones de las funciones seno y coseno. 
-1.3.3 Gráficas de las funciones tangente, cotangente, secante y cosecante. 
-1.3.4 Gráfica de transformaciones de las funciones tangente y cotangente 
-1.3.5 Gráfica de transformaciones de las funciones cosecante y secante 
-
-
-
-1.4 Modelado de Movimiento armónico. 1.4.1 Movimiento armónico simple 
-1.4.2 Movimiento armónico amortiguado 
-1.4.3 Fase y diferencia de fase 
-
+    1.1 La circunferencia unitaria.
+        1.1.1 Puntos terminales en la circunferencia
+        1.1.2 El número de referencia
+    1.2 Funciones trigonométricas de números reales
+        1.2.1 Las Funciones trigonométricas 
+        1.2.2 Valores de las funciones trigonométricas 
+        1.2.3 Identidades fundamentales 
+    1.3 Gráficas trigonométricas.
+        1.3.1 Gráficas de las funciones seno y coseno 
+        1.3.2 Gráficas de transformaciones de las funciones seno y coseno. 
+        1.3.3 Gráficas de las funciones tangente, cotangente, secante y cosecante. 
+        1.3.4 Gráfica de transformaciones de las funciones tangente y cotangente 
+        1.3.5 Gráfica de transformaciones de las funciones cosecante y secante 
+    1.4 Modelado de Movimiento armónico. 1.4.1 Movimiento armónico simple 
+        1.4.2 Movimiento armónico amortiguado 
+        1.4.3 Fase y diferencia de fase 
 
 UNIDAD 2: 
 Funciones trigonométricas: método del triángulo rectángulo. 
-
-2.1 Trigonometría de triángulos rectángulos 
-2.1.1. Medida de un ángulo 
-2.1.2. Ángulos en posición estándar 
-2.1.3. Longitud de un arco de circunferencia 
-2.1.4. Área de un sector circular 
-2.1.5. Movimiento circular 
-
-
-2.2. Funciones trigonométricas de ángulos
- 2.2.1. Evaluación de funciones trigonométricas de cualquier ángulo 
-2.2.2. Identidades trigonométricas 
-2.2.3. Áreas de triángulos 
-
-
-
-2.3. Funciones trigonométricas inversas y triángulos rectángulos 
-2.3.1. Funciones seno inverso, coseno inverso y tangente inversa. 
-2.3.2 Solución de ángulos en triángulos rectángulos 
-2.3.3. Evaluación de expresiones que tienen funciones trigonométricas inversas. 
-
-
-
-
-
+    2.1 Trigonometría de triángulos rectángulos 
+        2.1.1. Medida de un ángulo 
+        2.1.2. Ángulos en posición estándar 
+        2.1.3. Longitud de un arco de circunferencia 
+        2.1.4. Área de un sector circular 
+        2.1.5. Movimiento circular 
+    2.2. Funciones trigonométricas de ángulos
+        2.2.1. Evaluación de funciones trigonométricas de cualquier ángulo 
+        2.2.2. Identidades trigonométricas 
+        2.2.3. Áreas de triángulos 
+    2.3. Funciones trigonométricas inversas y triángulos rectángulos 
+        2.3.1. Funciones seno inverso, coseno inverso y tangente inversa. 
+        2.3.2 Solución de ángulos en triángulos rectángulos 
+        2.3.3. Evaluación de expresiones que tienen funciones trigonométricas inversas. 
 
 DOCUMENTOS  A TOMAR EN CUENTA
 

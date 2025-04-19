@@ -1,0 +1,22 @@
+Usando como referncia los contenidos de la carpeta @/reference/ y los archivos md+latex en la carpeta @/markdown/ , que correspondan a las siguientes indicaciones: 
+Actúa como experto en generar preguntas de completación.
+Considera la taxonomía de Bloom, en específico: conocimiento y comprensión.
+Enunciado, en el cual, se han omitido una o varias palabras. Las opciones correctas completan satisfactoriamente el enunciado. 
+
+Considera el siguiente ejemplo como referencia.
+Las ___________ son términos que utilizas para buscar información en un motor de búsqueda o en una base de datos.
+Palabras clave
+Áreas del conocimiento
+Instrucciones de búsqueda
+Retroalimentación: Las palabras clave son términos que utilizas para buscar información en un motor de búsqueda o en una base de datos.
+Para buscar información en una base de datos científica, se deben establecer parámetros de búsqueda a considerar, tanto de __________ como de __________.
+Inclusión, exclusión
+Inclusión, expulsión
+Ingreso, egreso
+Retroalimentación: Para buscar información en una base de datos científica, se deben establecer parámetros de búsqueda a considerar, tanto de inclusión como de exclusión.
+
+Escribe 6 preguntas de completación. Considera la taxonomía de bloom: 3 de conocimiento y 3 de comprensión.
+
+Usa los formatos de markdown+latex de la carpeta @/markdown/, en el meta escribe el tipo acorde y la referencia (por ejemplo: 
+---type: conocimiento 
+reference: Esta definición se encuentra en la guía didáctica, sección 2.1.1.---). Los resultados escríbelos en la carpeta output/unit1 y solo toma respuestas pertenecientes a la "UNIDAD 1: Funciones trigonométricas: método de la circunferencia unitaria" (revisa @/reference/contenidos.txt). Cuida devolver archivos con formato markdown+latext combinado (revisa @/markdown/). Devuelve nombre de archivos genericos "question_unit1_XX.md"

@@ -1,0 +1,18 @@
+---
+type: conocimiento
+---
+
+¿Cuál es el número de referencia asociado a $t = \frac{7\pi}{6}$?
+
+1. $\frac{\pi}{6}$
+2. $\frac{\pi}{3}$  
+3. $\frac{5\pi}{6}$  
+4. $\frac{\pi}{4}$  
+
+**Respuesta correcta:** 1  
+**Retroalimentación:**  
+Para determinar el número de referencia $\bar{t}$:
+1. $\frac{7\pi}{6}$ está en el tercer cuadrante ($\pi < t < \frac{3\pi}{2}$)
+2. El número de referencia se calcula: $\bar{t} = t - \pi = \frac{7\pi}{6} - \pi = \frac{\pi}{6}$
+3. El número de referencia siempre es un ángulo agudo ($0 < \bar{t} < \frac{\pi}{2}$)
+4. Este concepto es clave para determinar valores trigonométricos en cualquier cuadrante
