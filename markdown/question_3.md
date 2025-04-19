@@ -1,4 +1,6 @@
-**APLICACIÓN (Taxonomía de Bloom):**
+---
+nivel: aplicación
+---
 
 Un árbol proyecta una sombra de 60 metros cuando el ángulo de elevación del Sol es de \( 30^\circ \). ¿Cuál es la altura del árbol?
 

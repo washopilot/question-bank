@@ -1,4 +1,6 @@
-**CONOCIMIENTO (Taxonomía de Bloom):**
+---
+nivel: conocimiento
+---
 
 Ordene los siguientes pasos para resolver una expresión trigonométrica:
 

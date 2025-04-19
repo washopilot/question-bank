@@ -1,4 +1,6 @@
-**COMPRENSIÓN (Taxonomía de Bloom):**
+---
+nivel: comprensión
+---
 
 Complete la siguiente afirmación sobre identidades trigonométricas:
 

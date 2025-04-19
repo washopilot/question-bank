@@ -1,4 +1,6 @@
-**COMPRENSIÓN (Taxonomía de Bloom):**
+---
+nivel: comprensión
+---
 
 Relacione cada método (Columna A) con su uso (Columna B):
 

@@ -1,4 +1,6 @@
-**CONOCIMIENTO (Taxonomía de Bloom):**
+---
+nivel: conocimiento
+---
 
 ¿Cuál es la principal utilidad de la circunferencia unitaria en el estudio de las funciones trigonométricas?
 

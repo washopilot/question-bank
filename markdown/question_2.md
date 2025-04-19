@@ -1,4 +1,6 @@
-**APLICACIÓN (Taxonomía de Bloom):**
+---
+nivel: aplicación
+---
 
 Un topógrafo necesita medir la altura de un edificio. Desde un punto a 50 metros de la base, mide un ángulo de elevación de $60^\circ$. ¿Cuál es la altura del edificio?
 

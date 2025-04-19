@@ -1,4 +1,6 @@
-**CONOCIMIENTO (Taxonomía de Bloom):**
+---
+nivel: conocimiento
+---
 
 Ordene los pasos **desordenados** para demostrar la identidad trigonométrica:  
 \[ \frac{\sec \theta - \cos \theta}{\sin \theta} = \tan \theta \]  

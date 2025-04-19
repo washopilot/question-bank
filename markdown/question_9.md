@@ -1,4 +1,6 @@
-**CONOCIMIENTO (Taxonomía de Bloom):**
+---
+nivel: conocimiento
+---
 
 Relacione cada concepto (Columna A) con su definición (Columna B):
 
