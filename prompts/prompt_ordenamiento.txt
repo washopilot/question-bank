@@ -1,0 +1,4 @@
+Actúa como experto en generar preguntas de ordenamiento.
+Considera la taxonomía de Bloom, en específico: conocimiento, comprensión o aplicación.
+Se componen de los enunciados y los elementos a ordenarse
+usa el formato de los archivos en @/markdown/unit2/ (*.md) que son archivos markdow+latex, dentro del meta coloca el correspondiente (conocimiento, comprensión o aplicación) y en type: ordenamiento. Usa los contenidos de @/reference/contenidos.txt y devuelve solo de la unidad 2, tambien usa si sirve los contenidos de @/reference/primer_bimestre.md y los archivos que generes ponlos en la carpeta @/output/uni2/ con un nombre generico ordenam_XX.md
