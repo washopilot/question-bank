@@ -3,12 +3,6 @@ Actúa como experto en generar preguntas de completación.
 Considera la taxonomía de Bloom, en específico: conocimiento y comprensión.
 Enunciado, en el cual, se han omitido una o varias palabras. Las opciones correctas completan satisfactoriamente el enunciado. 
 
-Considera el siguiente ejemplo como referencia.
-Las ___________ son términos que utilizas para buscar información en un motor de búsqueda o en una base de datos.
-Palabras clave
-Áreas del conocimiento
-Instrucciones de búsqueda
-Retroalimentación: Las palabras clave son términos que utilizas para buscar información en un motor de búsqueda o en una base de datos.
 Para buscar información en una base de datos científica, se deben establecer parámetros de búsqueda a considerar, tanto de __________ como de __________.
 Inclusión, exclusión
 Inclusión, expulsión
