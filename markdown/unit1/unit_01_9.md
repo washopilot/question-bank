@@ -1,6 +1,6 @@
 ---
 category: conocimiento
-type: respuesta única  
+type: completamiento  
 reference: Sección 1.2.1 Las Funciones trigonométricas  
 ---
 

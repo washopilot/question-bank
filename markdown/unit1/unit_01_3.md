@@ -1,4 +1,5 @@
 ---
+category: conocimiento
 type: emparejamiento
 reference: Sección 1.3.1 Gráficas de las funciones seno y coseno
 ---

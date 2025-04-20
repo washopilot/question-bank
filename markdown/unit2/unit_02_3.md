@@ -1,6 +1,6 @@
 ---
 category: análisis
-type: respuesta única
+type: respuesta_única
 reference: Guía didáctica, sección 2.3.3 y `primer_bimestre.md`, ítem 18
 ---
 

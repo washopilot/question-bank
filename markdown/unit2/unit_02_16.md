@@ -1,6 +1,6 @@
 ---
 category: análisis
-type: respuesta única
+type: respuesta_única
 reference:
 ---
 

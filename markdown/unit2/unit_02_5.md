@@ -1,6 +1,6 @@
 ---
 category: conocimiento
-type: respuesta única
+type: respuesta_única
 reference: Guía didáctica, sección 2.2.1
 ---
 ¿Qué es el ángulo de referencia para un ángulo $\theta$ que no es agudo y está en un cuadrante?

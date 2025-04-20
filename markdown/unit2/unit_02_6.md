@@ -1,6 +1,6 @@
 ---
 category: conocimiento
-type: respuesta única
+type: respuesta_única
 reference: Guía didáctica, Tabla 6 y sección 2.2.1
 ---
 En el segundo cuadrante, ¿cuáles funciones trigonométricas son positivas?

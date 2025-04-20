@@ -1,4 +1,5 @@
 ---
+category: conocimiento
 type: emparejamiento
 reference: Sección 1.2.1 Las Funciones trigonométricas
 ---

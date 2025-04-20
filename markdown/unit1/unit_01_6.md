@@ -1,6 +1,6 @@
 ---
 category: aplicación
-type: respuesta única
+type: respuesta_única
 reference:
 ---
 

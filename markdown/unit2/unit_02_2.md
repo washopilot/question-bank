@@ -1,6 +1,6 @@
 ---
 category: aplicación
-type: respuesta única
+type: respuesta_única
 reference: Guía didáctica, sección 2.2.3, Ejemplo
 ---
 Encuentre el área de un triángulo si dos de sus lados miden 7 unidades y 9 unidades, y el ángulo incluido entre ellos es de 72°.

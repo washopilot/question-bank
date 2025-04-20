@@ -1,6 +1,6 @@
 ---
 category: conocimiento
-type: respuesta única
+type: respuesta_única
 reference:
 ---
 
