@@ -1,6 +1,6 @@
 ---
-category: aplicación
-type: respuesta_única
+category: APL
+type: OMRU
 reference: Guía didáctica, sección 2.1.5
 ---
 Una rueda con un radio de 0.5 metros gira a 120 revoluciones por minuto (rpm). ¿Cuál es la velocidad lineal de un punto en el borde de la rueda, en metros por segundo?

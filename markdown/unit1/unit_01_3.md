@@ -1,6 +1,6 @@
 ---
-category: conocimiento
-type: emparejamiento
+category: CON
+type: CA
 reference: Sección 1.3.1 Gráficas de las funciones seno y coseno
 ---
 

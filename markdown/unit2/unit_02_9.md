@@ -1,6 +1,6 @@
 ---
-category: análisis
-type: respuesta_única
+category: ANA
+type: OMRU
 reference: 2.2.2. Identidades trigonométricas 
 ---
 

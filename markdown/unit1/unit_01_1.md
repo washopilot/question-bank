@@ -1,6 +1,6 @@
 ---
-category: conocimiento
-type: emparejamiento
+category: CON
+type: CA
 reference: Sección 1.2.1 Las Funciones trigonométricas
 ---
 

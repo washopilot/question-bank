@@ -1,6 +1,6 @@
 ---
-category: aplicación
-type: respuesta_única
+category: APL
+type: OMRU
 reference: Guía didáctica, sección 2.1.3
 ---
 Un círculo tiene un radio de 9 metros. Encuentre la longitud del arco subtendido por un ángulo central de $\frac{5\pi}{6}$ radianes.

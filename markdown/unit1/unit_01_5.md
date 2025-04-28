@@ -1,6 +1,6 @@
 ---
-category: análisis
-type: respuesta_única
+category: ANA
+type: OMRU
 reference:
 ---
 
@@ -20,7 +20,7 @@ IV. Alcanza su primer mínimo en $t=2$
 
 **Respuesta correcta:** 4  
 **Retroalimentación:**  
-Análisis detallado del modelo $y = A\cos(\omega t)$:
+ANA detallado del modelo $y = A\cos(\omega t)$:
 
 - *Amplitud (I):* $A = 4$ → Correcto
   
@@ -31,7 +31,7 @@ Análisis detallado del modelo $y = A\cos(\omega t)$:
 - *Primer mínimo (IV):* Ocurre cuando $\cos\left(\frac{\pi t}{2}\right) = -1$ ⇒ $\frac{\pi t}{2} = \pi$ ⇒ $t=2$ → Correcto
   
 
-Este análisis demuestra comprensión de:
+Este ANA demuestra COM de:
 1. Parámetros en movimiento armónico ($A$, $\omega$)
 2. Cálculo del periodo $T = \frac{2\pi}{\omega}$
 3. Comportamiento de la función coseno

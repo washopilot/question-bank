@@ -1,6 +1,6 @@
 ---
-category: análisis
-type: respuesta_única
+category: ANA
+type: OMRU
 reference: Guía didáctica, sección 2.1.5 y `primer_bimestre.md`, ítem 10
 ---
 

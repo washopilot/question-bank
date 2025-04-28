@@ -1,6 +1,6 @@
 ---
-category: aplicación
-type: respuesta_única
+category: APL
+type: OMRU
 reference: 
 ---
 Si el punto $P(-3, 4)$ se encuentra en el lado terminal de un ángulo $\theta$ en posición estándar, ¿cuál es el valor de $\sin \theta$?

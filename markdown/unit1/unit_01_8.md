@@ -1,6 +1,6 @@
 ---
-category: comprensión
-type: completamiento
+category: COM
+type: PRB
 reference: Sección 1.2.2 Valores de las funciones trigonométricas  
 ---
 

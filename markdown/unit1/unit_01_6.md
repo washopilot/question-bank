@@ -1,6 +1,6 @@
 ---
-category: aplicación
-type: respuesta_única
+category: APL
+type: OMRU
 reference:
 ---
 

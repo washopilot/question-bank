@@ -1,6 +1,6 @@
 ---
-category: conocimiento
-type: completamiento  
+category: CON
+type: PRB  
 reference: Sección 1.2.1 Las Funciones trigonométricas  
 ---
 
