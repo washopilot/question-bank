@@ -14,6 +14,6 @@ La función trigonométrica que representa la razón $\frac{y}{x}$ en la circunf
 
 **Retroalimentación:**  
 En la circunferencia unitaria:  
-- $\sin t = y$  
-- $\cos t = x$  
-- $\tan t = \frac{y}{x}$ Por lo tanto, la función que representa $\frac{y}{x}$ es la tangente.
+$\sin t = y$  
+$\cos t = x$  
+$\tan t = \frac{y}{x}$ Por lo tanto, la función que representa $\frac{y}{x}$ es la tangente.
