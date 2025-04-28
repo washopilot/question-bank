@@ -4,7 +4,7 @@ type: CA
 reference: Sección 1.3.1 Gráficas de las funciones seno y coseno
 ---
 
-**Relacione cada función con sus características principales.**
+Relacione cada función con sus características principales
 
 +-----------------------------+---------------------------+
 | Función                     | Características           |
@@ -17,14 +17,11 @@ reference: Sección 1.3.1 Gráficas de las funciones seno y coseno
 +-------------------------------+---------------------------+
 |4. $y = 2\sin(3x)$            | d. Período $\frac{2\pi}{3}$, amplitud 2 |
 +-------------------------------+---------------------------+
-|5. $y = \cos(x-\frac{\pi}{4})$ | e. Desplazamiento horizontal $\frac{\pi}{4}$ a la derecha |
-+--------------------------+---------------------------+
 
-**Respuesta:** 1-a, 2-b, 3-c, 4-d, 5-e
+**Respuesta:** 1-b, 2-a, 3-c, 4-d
 
 **Retroalimentación:**
 Las funciones trigonométricas tienen características distintivas:
 - Seno y coseno tienen período $2\pi$ pero diferente paridad
 - La tangente tiene período $\pi$ y asíntotas verticales
 - Los coeficientes modifican amplitud y período
-- Los desplazamientos afectan la posición horizontal

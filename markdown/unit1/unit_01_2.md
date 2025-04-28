@@ -9,24 +9,22 @@ reference: Sección 1.2.3 Identidades fundamentales
 +-------------------------+-------------------------+
 | Identidad               | Expresión equivalente   |
 +=========================+=========================+
-| 1. $\sin^2 t + \cos^2 t$ | a. $1$                  |
+| 1. $\sin^2 t + \cos^2 t$ | a. $\csc^2 t$                   |
 +-------------------------+-------------------------+
-| 2. $1 + \tan^2 t$        | b. $\sec^2 t$           |
+| 2. $1 + \cot^2 t$        | b. $\sec^2 t$          |
 +-------------------------+-------------------------+
-| 3. $1 + \cot^2 t$        | c. $\csc^2 t$           |
+| 3. $\sin(-t)$            | c. $1$               |
 +-------------------------+-------------------------+
-| 4. $\sin(-t)$            | d. $-\sin t$            |
-+-------------------------+-------------------------+
-| 5. $\cos(-t)$            | e. $\cos t$             |
+| 4. $1 + \tan^2 t$        | d. $-\sin t$           |
 +-------------------------+-------------------------+
 
-**Respuesta:** 1-a, 2-b, 3-c, 4-d, 5-e
+**Respuesta:** 1-c, 2-a, 3-d, 4-b
 
 **Retroalimentación:**
 Estas son identidades trigonométricas fundamentales:
+
 1. Identidad pitagórica básica
-2. Identidad pitagórica con tangente
-3. Identidad pitagórica con cotangente
-4. Propiedad de imparidad del seno
-5. Propiedad de paridad del coseno
+2. Identidad pitagórica con cotangente
+3. Propiedad de imparidad del seno
+4. Identidad pitagórica con tangente
 Estas identidades son útiles para simplificar expresiones y resolver ecuaciones trigonométricas.
