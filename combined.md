@@ -6,6 +6,7 @@ dir: "markdown/unit1"
 output:
   word_document:
     path: combined.docx
+    pandoc_args: ["--lua-filter=fix-linebreaks.lua"]
 ---
 
 | Problema |

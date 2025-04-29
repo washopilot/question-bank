@@ -55,6 +55,7 @@ dir: "$DIR"
 output:
   word_document:
     path: combined.docx
+    pandoc_args: ["--lua-filter=fix-linebreaks.lua"]
 ---
 EOL
 
