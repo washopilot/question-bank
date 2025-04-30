@@ -11,7 +11,7 @@
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
 CATEGORY="CON"
-TYPE="OMRU" 
+TYPE="D" 
 OUTPUT_FILE="combined.md"
 
 # Procesar argumentos
