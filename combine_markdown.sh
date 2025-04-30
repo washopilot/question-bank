@@ -10,7 +10,7 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="SIN"
+CATEGORY="APL"
 TYPE="OMVR" 
 OUTPUT_FILE="combined_markdown.md"
 
