@@ -2,6 +2,7 @@
 category: ANA
 type: OMRU
 reference:
+answer: 4
 ---
 
 Un objeto en movimiento armónico simple está modelado por $y = 4\cos\left(\frac{\pi t}{2}\right)$. Analice las siguientes afirmaciones:

@@ -2,6 +2,7 @@
 category: CON
 type: OMRU
 reference:
+answer: 2
 ---
 
 ¿Cuál es la definición correcta de la circunferencia unitaria en el contexto de funciones trigonométricas?
