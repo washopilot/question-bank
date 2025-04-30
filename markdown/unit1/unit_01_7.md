@@ -2,6 +2,7 @@
 category: CON
 type: PRB
 reference: Sección 1.1.2 El número de referencia
+answer: A
 ---
 
 El número de referencia $\bar{t}$ para $t = \frac{5\pi}{4}$ es \_\_\_\_\_\_\_\_.

@@ -10,8 +10,8 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="SIN"
-TYPE="OMRU" 
+CATEGORY="COM"
+TYPE="PRB" 
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos

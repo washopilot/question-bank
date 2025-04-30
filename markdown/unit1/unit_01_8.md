@@ -1,7 +1,8 @@
 ---
 category: COM
 type: PRB
-reference: Sección 1.2.2 Valores de las funciones trigonométricas  
+reference: Sección 1.2.2 Valores de las funciones trigonométricas
+answer: A
 ---
 
 Si $\cos t = -\frac{1}{2}$ y $t$ está en el cuadrante II, entonces $\sin t =$ \_\_\_\_\_\_\_\_.  

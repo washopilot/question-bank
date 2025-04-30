@@ -1,7 +1,8 @@
 ---
 category: CON
 type: PRB  
-reference: Sección 1.2.1 Las Funciones trigonométricas  
+reference: Sección 1.2.1 Las Funciones trigonométricas
+answer: C
 ---
 
 La función trigonométrica que representa la razón $\frac{y}{x}$ en la circunferencia unitaria es \_\_\_\_\_\_\_\_.  
