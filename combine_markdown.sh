@@ -12,7 +12,7 @@
 DIR="markdown/unit1"
 CATEGORY="CON"
 TYPE="D" 
-OUTPUT_FILE="combined.md"
+OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
 while [[ $# -gt 0 ]]; do
@@ -48,37 +48,38 @@ done
 # Crear archivo de salida con metadatos YAML dinámicos
 cat > "$OUTPUT_FILE" << EOL
 ---
-title: "combined"
+title: "combined_markdown"
 type: "$TYPE"
 category: "$CATEGORY"
 dir: "$DIR"
 output:
   word_document:
-    path: combined.docx
+    path: combined_markdown.docx
     pandoc_args: ["--lua-filter=fix-linebreaks.lua"]
 ---
 EOL
 
-# Agregar encabezado de tabla
+# Agregar encabezado de tabla con columnas en el orden solicitado
 echo "" >> "$OUTPUT_FILE"
-echo "| Problema |" >> "$OUTPUT_FILE"
-echo "|----------|" >> "$OUTPUT_FILE"
+echo "| Problema | Respuesta |" >> "$OUTPUT_FILE"
+echo "|----------|--------|" >> "$OUTPUT_FILE"
 
 # Procesar cada archivo markdown
 while IFS= read -r file; do
     # Extraer metadatos
     file_category=$(grep -m1 -i "^category:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
     file_type=$(grep -m1 -i "^type:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
+    file_answer=$(grep -m1 -i "^answer:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
 
     # Verificar si cumple con los criterios
     if [ "$(echo "$file_category" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$CATEGORY" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ] && \
        [ "$(echo "$file_type" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$TYPE" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ]; then
         
         # Extraer contenido después de los metadatos YAML y eliminar líneas de metadatos
-        content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference):' | grep -v '^---$')
+        content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference|answer):' | grep -v '^---$')
         
         # Agregar al archivo de salida como fila de tabla, preservando saltos de línea
-        echo "| $content |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
+        echo "| $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
     fi
 done < <(find "$DIR" -type f -name "*.md" 2>/dev/null)
 
