@@ -1,7 +1,7 @@
 ---
 title: "combined_markdown"
-type: "D"
-category: "CON"
+type: "OMVR"
+category: "COM"
 dir: "markdown/unit1"
 output:
   word_document:
@@ -11,10 +11,5 @@ output:
 
 | Problema | Respuesta |
 |----------|--------|
-| <br>El valor exacto de $\tan\left(\frac{\pi}{3}\right)$ es $\frac{\sqrt{2}}{2}$.<br><br>**Respuesta:** F<br><br>**Retroalimentación:**<br>Valor correcto:<br>$$\tan\left(\frac{\pi}{3}\right) = \sqrt{3}$$<br>$\frac{\sqrt{2}}{2}$ corresponde a $\sin\left(\frac{\pi}{4}\right)$ o $\cos\left(\frac{\pi}{4}\right)$.<br>El enunciado es falso. | F |
-| <br>La función $f(x) = \cos(x)$ tiene un valor máximo de 1 y un valor mínimo de -1.<br><br>**Respuesta:** V<br><br>**Retroalimentación:**<br>La función coseno básica tiene:<br>$$\text{Rango} = [-1, 1]$$<br>$$\text{Valor máximo} = 1$$<br>$$\text{Valor mínimo} = -1$$<br>El enunciado es verdadero. | V |
-| <br>El número de referencia para $t = \frac{5\pi}{3}$ es $\frac{\pi}{3}$.<br><br>**Respuesta:** V<br><br>**Retroalimentación:**<br><br>Para $t = \frac{5\pi}{3}$ (cuarto cuadrante):<br>$$\text{Numero de referencia} = 2\pi - \frac{5\pi}{3} = \frac{\pi}{3}$$<br>El enunciado es verdadero. | V |
-| <br>El período fundamental de la función $f(x) = \cos(x)$ es $2\pi$.<br><br>**Respuesta:** V<br><br>**Retroalimentación:**<br>La función coseno es periódica con período fundamental $2\pi$, lo que significa que completa un ciclo completo cada $2\pi$ radianes y cumple que $\cos(x + 2\pi) = \cos(x)$ para todo $x$ real | V |
-| <br>El valor de $\sin\left(\frac{\pi}{2}\right)$ en la circunferencia unitaria es igual a la coordenada $x$ del punto terminal correspondiente.<br><br>**Respuesta:** F<br><br>**Retroalimentación:**<br>El valor de $\sin\theta$ corresponde a la coordenada $y$ del punto terminal en la circunferencia unitaria. Para $\theta = \frac{\pi}{2}$, el punto terminal es (0,1), por lo que $\sin\left(\frac{\pi}{2}\right) = 1$ (la coordenada y), no la coordenada x. | F |
-| <br>La identidad trigonométrica fundamental es $\sin^2θ + \cos^2θ = 1$ para cualquier ángulo θ.<br><br>**Respuesta:** V<br><br>**Retroalimentación:**<br>Demostración usando circunferencia unitaria:<br>Para cualquier punto $(x,y)$ en la circunferencia unitaria:<br>$$x^2 + y^2 = 1$$<br>Como $x = \cosθ$ y $y = \sinθ$:<br>$$\cos^2θ + \sin^2θ = 1$$<br>El enunciado es verdadero para todo θ. | V |
-| <br> Para demostrar que un punto $P(x,y)$ está en la circunferencia unitaria usted necesita verificar que dicho punto satisface la ecuación  $x^{2} - y^{2} = 1$ <br><br>**Respuesta:** F<br><br>**Retroalimentación:**<br>Si un punto satisface la ecuación de la circunferencia unitaria $x^{2} + y^{2} = 1$, entonces dicho punto está sobre la circunferencia unitaria. | F |
+| <br>**Pregunta:**  <br>Dada la función \( f(x) = 3\sin\left(2x - \frac{\pi}{3}\right) \), selecciona las afirmaciones correctas sobre sus características:  <br><br>A. La amplitud es 3.  <br>B. El período es \( \pi \).  <br>C. El desfase es \( \frac{\pi}{6} \) hacia la derecha.  <br>D. La función tiene un máximo en \( x = \frac{\pi}{3} \).  <br><br>**Retroalimentación:**  <br>Para la función \( f(x) = A\sin(Bx - C) \):  <br>- Amplitud = \( |A| = 3 \) (A es correcta).  <br>- Período = \( \frac{2\pi}{B} = \frac{2\pi}{2} = \pi \) (B es correcta, pero no está seleccionada como respuesta válida en este caso).  <br>- Desfase = \( \frac{C}{B} = \frac{\pi/3}{2} = \frac{\pi}{6} \) (C es correcta).  <br>- El máximo no ocurre en \( x = \frac{\pi}{3} \) (D es incorrecta).  <br><br>**Respuesta correcta:** A, C. | A, C |
+| <br>**Pregunta:**  <br>Un objeto en movimiento armónico simple tiene la ecuación \( y(t) = 5\cos\left(4t + \frac{\pi}{2}\right) \). Selecciona las afirmaciones verdaderas:  <br><br>A. La amplitud es 10.  <br>B. La frecuencia angular es 4 rad/s.  <br>C. El desfase es \( \frac{\pi}{2} \) hacia la izquierda.  <br>D. El período es \( \frac{\pi}{2} \) segundos.  <br><br>**Retroalimentación:**  <br>Para \( y(t) = A\cos(\omega t + \phi) \):  <br>- Amplitud \( |A| = 5 \) (A es falsa).  <br>- Frecuencia angular \( \omega = 4 \) rad/s (B es verdadera).  <br>- Desfase \( \phi = \frac{\pi}{2} \) (hacia la izquierda si es negativo) (C es falsa, el desfase es \( -\frac{\pi}{2} \) para movimiento hacia la izquierda).  <br>- Período \( T = \frac{2\pi}{\omega} = \frac{2\pi}{4} = \frac{\pi}{2} \) s (D es verdadera).  <br><br>**Respuesta correcta:** B, D. | B, D |
