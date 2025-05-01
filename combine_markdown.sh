@@ -10,8 +10,8 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="CON"
-TYPE="OMRU" 
+CATEGORY="ANA"
+TYPE="OMVR" 
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
