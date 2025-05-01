@@ -2,6 +2,7 @@
 category: ANA
 type: OMRU
 reference: Guía didáctica, sección 2.3.3 y `primer_bimestre.md`, ítem 18
+answer: 4
 ---
 
 Encuentre el valor exacto de la expresión $\cos(\tan^{-1}\frac{4}{3})$.

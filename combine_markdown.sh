@@ -9,9 +9,9 @@
 #   archivo_salida = combined.md
 
 # Configuración inicial con valores por defecto
-DIR="markdown/unit1"
-CATEGORY="EVA"
-TYPE="PRB" 
+DIR="markdown/unit2"
+CATEGORY="CON"
+TYPE="OMRU" 
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos

@@ -2,6 +2,7 @@
 category: CON
 type: OMRU
 reference: Guía didáctica, Tabla 6 y sección 2.2.1
+answer: 1
 ---
 En el segundo cuadrante, ¿cuáles funciones trigonométricas son positivas?
 

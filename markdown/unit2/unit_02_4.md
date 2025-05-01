@@ -2,6 +2,7 @@
 category: ANA
 type: OMRU
 reference: Guía didáctica, sección 2.1.5 y `primer_bimestre.md`, ítem 10
+answer: 2
 ---
 
 Dos puntos, A y B, se mueven en círculos concéntricos. El punto A se mueve en un círculo de radio 3 m y el punto B se mueve en un círculo de radio 5 m. Si ambos puntos tienen la misma velocidad angular $\omega$, ¿cuál es la relación entre sus velocidades lineales $v_A$ y $v_B$?
