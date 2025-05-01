@@ -3,6 +3,10 @@ title: "combined_markdown"
 type: "D"
 category: "COM"
 dir: "markdown/unit2"
+files:
+  - "unit_02_24.md"
+  - "unit_02_26.md"
+  - "unit_02_27.md"
 output:
   word_document:
     path: combined_markdown.docx

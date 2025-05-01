@@ -3,15 +3,15 @@
 # Script para combinar archivos markdown que cumplan con ciertos metadatos
 # Uso: bash combine_markdown.sh [-d directorio] [-c category] [-t type] [-o archivo_salida]
 # Valores por defecto:
-#   directorio = markdown/unit1
-#   category = CON
-#   type = OMRU
-#   archivo_salida = combined.md
+#   directorio = markdown/unit2
+#   category = COM
+#   type = D
+#   archivo_salida = combined_markdown.md
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit2"
 CATEGORY="COM"
-TYPE="D" 
+TYPE="D"
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
@@ -45,47 +45,49 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-# Crear archivo de salida con metadatos YAML dinámicos
-cat > "$OUTPUT_FILE" << EOL
----
-title: "combined_markdown"
-type: "$TYPE"
-category: "$CATEGORY"
-dir: "$DIR"
-output:
-  word_document:
-    path: combined_markdown.docx
-    pandoc_args: ["--lua-filter=fix-linebreaks.lua"]
----
-EOL
+# Buscar y filtrar archivos válidos
+valid_files=()
+while IFS= read -r file; do
+    file_category=$(grep -m1 -i "^category:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
+    file_type=$(grep -m1 -i "^type:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
 
-# Agregar encabezado de tabla con columnas en el orden solicitado
+    if [ "$(echo "$file_category" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$CATEGORY" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ] && \
+       [ "$(echo "$file_type" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$TYPE" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ]; then
+        valid_files+=("$file")
+    fi
+done < <(find "$DIR" -type f -name "*.md" 2>/dev/null)
+
+# Crear bloque YAML con metadatos y lista de archivos
+{
+echo "---"
+echo "title: \"combined_markdown\""
+echo "type: \"$TYPE\""
+echo "category: \"$CATEGORY\""
+echo "dir: \"$DIR\""
+echo "files:"
+for f in "${valid_files[@]}"; do
+    echo "  - \"$(basename "$f")\""
+done
+echo "output:"
+echo "  word_document:"
+echo "    path: combined_markdown.docx"
+echo "    pandoc_args: [\"--lua-filter=fix-linebreaks.lua\"]"
+echo "---"
+} > "$OUTPUT_FILE"
+
+# Agregar encabezado de tabla
 echo "" >> "$OUTPUT_FILE"
 echo "| No | Problema | Respuesta |" >> "$OUTPUT_FILE"
 echo "|:--:|:-------|:--:|" >> "$OUTPUT_FILE"
 
-# Inicializar contador para números consecutivos
+# Procesar archivos y agregar contenido a la tabla
 counter=0
-
-# Procesar cada archivo markdown
-while IFS= read -r file; do
-    # Extraer metadatos
-    file_category=$(grep -m1 -i "^category:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
-    file_type=$(grep -m1 -i "^type:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
+for file in "${valid_files[@]}"; do
     file_answer=$(grep -m1 -i "^answer:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
+    content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference|answer):' | grep -v '^---$')
 
-    # Verificar si cumple con los criterios
-    if [ "$(echo "$file_category" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$CATEGORY" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ] && \
-       [ "$(echo "$file_type" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" = "$(echo "$TYPE" | tr '[:upper:]' '[:lower:]' | tr -d ' ')" ]; then
-        
-        # Extraer contenido después de los metadatos YAML y eliminar líneas de metadatos
-        content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference|answer):' | grep -v '^---$')
-        
-        # Agregar al archivo de salida como fila de tabla, preservando saltos de línea
-        # Obtener número consecutivo con formato XXX
-        counter=$(printf "%03d" $((counter + 1)))
-        echo "| $counter | $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
-    fi
-done < <(find "$DIR" -type f -name "*.md" 2>/dev/null)
+    counter=$(printf "%03d" $((counter + 1)))
+    echo "| $counter | $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
+done
 
 echo "Proceso completado. Resultados guardados en $OUTPUT_FILE"
