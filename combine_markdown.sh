@@ -10,8 +10,8 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit2"
-CATEGORY="COM"
-TYPE="D"
+CATEGORY="CON"
+TYPE="OMVR"
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
