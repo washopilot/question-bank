@@ -1,7 +1,7 @@
 ---
 title: "combined_markdown"
-type: "OMVR"
-category: "ANA"
+type: "PRB"
+category: "EVA"
 dir: "markdown/unit1"
 output:
   word_document:
@@ -11,4 +11,5 @@ output:
 
 | No | Problema | Respuesta |
 |:--:|:-------|:--:|
-| 001 | <br>Dada la función $f(x) = 2\cos\left(\frac{1}{2}x + \frac{\pi}{4}\right) - 1$, seleccione las afirmaciones correctas:<br><br>**Opciones:**<br>A. La amplitud es $\frac{1}{2}$  <br>B. El período es $4\pi$  <br>C. El desfase es $\frac{\pi}{4}$ hacia la derecha  <br>D. El rango es $[-3, 1]$<br><br>**Respuesta:** B, D<br><br>**Retroalimentación:**<br>Análisis de $f(x) = A\cos(Bx + C) + D$:<br>- Amplitud = $|2| = 2$ (A incorrecta)<br>- Período = $\frac{2\pi}{1/2} = 4\pi$ (B correcta)<br>- Desfase = $\frac{\pi/4}{1/2} = \frac{\pi}{2}$ izquierda (C incorrecta)<br>- Rango = $[D-A, D+A] = [-1-2, -1+2] = [-3, 1]$ (D correcta)<br>Las opciones B y D describen correctamente las características de la función transformada. | B, D |
+| 001 | <br>Dos ondas sonoras tienen la misma frecuencia y amplitud, pero con diferencia de fase de π radianes. Complete: Cuando estas ondas interfieren, la interferencia resultante es de tipo ______.<br><br>**Respuesta:** destructiva<br><br>**Retroalimentación:**<br>Criterios de evaluación:<br><br>1. Diferencia de fase π radianes = 180°<br>2. Interferencia destructiva ocurre cuando:<br>   - Amplitudes iguales<br>   - Diferencia de fase = π + 2πn (n ∈ ℤ)<br>3. Las ondas se cancelan mutuamente<br>4. Interferencia constructiva ocurre con diferencia de fase 0<br>La condición descrita produce interferencia destructiva. | destructiva |
+| 002 | <br>Al analizar la gráfica de una función trigonométrica se observa que:<br><br>1. Pasa por el punto (0,1)<br>2. Tiene un máximo en x=0<br>3. Presenta simetría par<br><br>Complete: La función que mejor describe este comportamiento es ______.<br><br>**Respuesta:** coseno<br><br>**Retroalimentación:**<br>Criterios de evaluación:<br>1. $\cos(0) = 1$ (coincide con punto inicial)<br>2. La función coseno tiene máximo en x=0<br>3. $\cos(-x) = \cos(x)$ (simetría par)<br>4. El seno pasa por (0,0) y tiene simetría impar<br>La función descrita corresponde al coseno. | coseno |

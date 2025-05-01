@@ -10,7 +10,7 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="CON"
+CATEGORY="APL"
 TYPE="CA" 
 OUTPUT_FILE="combined_markdown.md"
 
