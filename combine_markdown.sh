@@ -10,7 +10,7 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="COM"
+CATEGORY="APL"
 TYPE="OMRU" 
 OUTPUT_FILE="combined_markdown.md"
 
