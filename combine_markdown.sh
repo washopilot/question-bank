@@ -11,7 +11,7 @@
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
 CATEGORY="CON"
-TYPE="OMVR" 
+TYPE="OMRU" 
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
@@ -61,8 +61,11 @@ EOL
 
 # Agregar encabezado de tabla con columnas en el orden solicitado
 echo "" >> "$OUTPUT_FILE"
-echo "| Problema | Respuesta |" >> "$OUTPUT_FILE"
-echo "|----------|--------|" >> "$OUTPUT_FILE"
+echo "| No | Problema | Respuesta |" >> "$OUTPUT_FILE"
+echo "|:--:|:-------|:--:|" >> "$OUTPUT_FILE"
+
+# Inicializar contador para números consecutivos
+counter=0
 
 # Procesar cada archivo markdown
 while IFS= read -r file; do
@@ -79,7 +82,9 @@ while IFS= read -r file; do
         content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference|answer):' | grep -v '^---$')
         
         # Agregar al archivo de salida como fila de tabla, preservando saltos de línea
-        echo "| $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
+        # Obtener número consecutivo con formato XXX
+        counter=$(printf "%03d" $((counter + 1)))
+        echo "| $counter | $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
     fi
 done < <(find "$DIR" -type f -name "*.md" 2>/dev/null)
 
