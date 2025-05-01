@@ -1,5 +1,6 @@
 {
     "markdown-preview-enhanced.usePandocParser": true,
     "markdown-preview-enhanced.pandocMarkdownFlavor": "markdown-raw_tex+tex_math_single_backslash",
-    "markdown-preview-enhanced.mathRenderingOption": "MathJax"
+    "markdown-preview-enhanced.mathRenderingOption": "MathJax",
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true
 }

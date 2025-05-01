@@ -10,8 +10,8 @@
 
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
-CATEGORY="EVA"
-TYPE="PRB" 
+CATEGORY="COM"
+TYPE="OMRU" 
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos

@@ -1,7 +1,7 @@
 ---
 title: "combined_markdown"
-type: "PRB"
-category: "EVA"
+type: "OMRU"
+category: "COM"
 dir: "markdown/unit1"
 output:
   word_document:
@@ -11,5 +11,5 @@ output:
 
 | Problema | Respuesta |
 |----------|--------|
-| <br>Dos ondas sonoras tienen la misma frecuencia y amplitud, pero con diferencia de fase de π radianes. Complete: Cuando estas ondas interfieren, la interferencia resultante es de tipo ______.<br><br>**Respuesta:** destructiva<br><br>**Retroalimentación:**<br>Criterios de evaluación:<br><br>1. Diferencia de fase π radianes = 180°<br>2. Interferencia destructiva ocurre cuando:<br>   - Amplitudes iguales<br>   - Diferencia de fase = π + 2πn (n ∈ ℤ)<br>3. Las ondas se cancelan mutuamente<br>4. Interferencia constructiva ocurre con diferencia de fase 0<br>La condición descrita produce interferencia destructiva. | destructiva |
-| <br>Al analizar la gráfica de una función trigonométrica se observa que:<br><br>1. Pasa por el punto (0,1)<br>2. Tiene un máximo en x=0<br>3. Presenta simetría par<br><br>Complete: La función que mejor describe este comportamiento es ______.<br><br>**Respuesta:** coseno<br><br>**Retroalimentación:**<br>Criterios de evaluación:<br>1. $\cos(0) = 1$ (coincide con punto inicial)<br>2. La función coseno tiene máximo en x=0<br>3. $\cos(-x) = \cos(x)$ (simetría par)<br>4. El seno pasa por (0,0) y tiene simetría impar<br>La función descrita corresponde al coseno. | coseno |
+| <br>¿Cuál de las siguientes expresiones es equivalente a $\frac{1}{\sin^2θ} - \frac{1}{\tan^2θ}$?<br><br>A. $\cos^2θ$  <br>B. $\sin^2θ$  <br>C. $1$  <br>D. $\cot^2θ$<br><br>**Respuesta:** C<br><br>**Retroalimentación:**<br>Simplificación paso a paso:<br><br>$\frac{1}{\sin^2θ} - \frac{1}{\tan^2θ}$ = $\frac{1}{\sin^2θ} - \frac{\cos^2θ}{\sin^2θ} = \frac{1 - \cos^2θ}{\sin^2θ} = \frac{\sin^2θ}{\sin^2θ} = 1$<br>   <br>La respuesta correcta es C. La expresión simplificada es igual a 1. | C |
+| <br>Para el valor $t = \frac{7\pi}{6}$, ¿cuál es su punto terminal en la circunferencia unitaria?<br><br>A. $\left(\frac{\sqrt{3}}{2}, -\frac{1}{2}\right)$  <br>B. $\left(-\frac{\sqrt{3}}{2}, -\frac{1}{2}\right)$  <br>C. $\left(-\frac{1}{2}, -\frac{\sqrt{3}}{2}\right)$  <br>D. $\left(\frac{1}{2}, \frac{\sqrt{3}}{2}\right)$<br><br>**Respuesta:** B<br><br>**Retroalimentación:**<br><br>1. $t = \frac{7\pi}{6}$ está en el tercer cuadrante<br>2. Número de referencia = $\frac{7\pi}{6} - \pi = \frac{\pi}{6}$<br>3. Coordenadas del punto terminal:<br><br>   $x = -\cos\left(\frac{\pi}{6}\right) = -\frac{\sqrt{3}}{2}$<br><br>   $y = -\sin\left(\frac{\pi}{6}\right) = -\frac{1}{2}$<br><br>4. Por tanto, el punto terminal es $\left(-\frac{\sqrt{3}}{2}, -\frac{1}{2}\right)$ | B |
