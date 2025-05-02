@@ -1,10 +1,11 @@
 ---
 title: "combined_markdown"
-type: "OMVR"
+type: "PRB"
 category: "CON"
 dir: "markdown/unit2"
 files:
-  - "unit_02_28.md"
+  - "unit_02_33.md"
+  - "unit_02_34.md"
 output:
   word_document:
     path: combined_markdown.docx
@@ -13,4 +14,5 @@ output:
 
 | No | Problema | Respuesta |
 |:--:|:-------|:--:|
-| 001 | <br>En trigonometría, las funciones trigonométricas básicas en un triángulo rectángulo se definen como relaciones entre los lados. Seleccione las definiciones CORRECTAS:<br><br>**Opciones:**<br><br>A. $\sin \theta = \frac{\text{cateto opuesto}}{\text{hipotenusa}}$  <br>B. $\cos \theta = \frac{\text{cateto adyacente}}{\text{hipotenusa}}$  <br>C. $\tan \theta = \frac{\text{hipotenusa}}{\text{cateto adyacente}}$  <br>D. $\csc \theta = \frac{\text{hipotenusa}}{\text{cateto opuesto}}$  <br>E. $\sec \theta = \frac{\text{cateto opuesto}}{\text{cateto adyacente}}$<br><br>**Retroalimentación:**<br><br>Correctas (A,B,D): Estas son las definiciones precisas de las funciones seno, coseno y cosecante en un triángulo rectángulo.<br><br>Incorrecta (C): La tangente es cateto opuesto sobre cateto adyacente, no hipotenusa sobre cateto adyacente.<br><br>Incorrecta (E): La secante es hipotenusa sobre cateto adyacente, no opuesto sobre adyacente. | A,B,D |
+| 001 | <br>Si el ángulo $\theta$  está en posición estándar, $P\left(x,y\right)$ es un punto  sobre el  lado terminal de $\theta$, y $r$ es la distancia del origen a $P$, entonces <br><br>$sen{\ \theta}$ = \ \ \_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>**Respuesta:** $\sin{\theta}=\frac{y}{r}$ | $\sin{\theta}=\frac{y}{r}$ |
+| 002 | <br>El signo  de una función trigonométrica  de \theta depende del cuadrante  en el que se encuentre el lado terminal del ángulo \theta.<br>En el cuarto  cuadrante, $\sin{\theta}$ es \_\_\_\_\_\_ (positivo/negativo)<br><br>**Respuesta:**<br>negativo<br><br>**Retroalimentación:**<br>La función seno es negativa en el cuarto cuadrante | negativo |

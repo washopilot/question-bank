@@ -11,7 +11,7 @@
 # Configuración inicial con valores por defecto
 DIR="markdown/unit2"
 CATEGORY="CON"
-TYPE="OMVR"
+TYPE="PRB"
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
