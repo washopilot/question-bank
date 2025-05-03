@@ -11,7 +11,7 @@
 # Configuración inicial con valores por defecto
 DIR="markdown/unit1"
 CATEGORY="APL"
-TYPE="PRB"
+TYPE="CA"
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
