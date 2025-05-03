@@ -1,13 +1,13 @@
 ---
 title: "combined_markdown"
-type: "OMRU"
+type: "PRB"
 category: "COM"
 dir: "markdown/unit2"
 files:
-  - "unit_02_41.md"
-  - "unit_02_42.md"
-  - "unit_02_43.md"
-  - "unit_02_40.md"
+  - "unit_02_38.md"
+  - "unit_02_12.md"
+  - "unit_02_39.md"
+  - "unit_02_37.md"
 output:
   word_document:
     path: combined_markdown.docx
@@ -16,7 +16,7 @@ output:
 
 | No | Problema | Respuesta |
 |:--:|:-------|:--:|
-| 001 | <br>**Pregunta:**  <br>Un sector circular tiene radio $r = 6\ \text{cm}$ y ángulo central $\theta = 120^\circ$. Su área es:<br><br>A. $6\pi\ \text{cm}^2$  <br>B. $9\pi\ \text{cm}^2$  <br>C. $12\pi\ \text{cm}^2$  <br>D. $18\pi\ \text{cm}^2$<br><br>**Respuesta correcta:** C. $12\pi\ \text{cm}^2$<br><br>**Retroalimentación:**  <br>El área de un sector circular se calcula con:  <br>$$A = \left(\frac{\theta}{360^\circ}\right) \times \pi r^2$$  <br>Sustituyendo valores:  <br>$$A = \left(\frac{120^\circ}{360^\circ}\right) \times \pi (6\ \text{cm})^2 = \frac{1}{3} \times 36\pi\ \text{cm}^2 = 12\pi\ \text{cm}^2$$ | C |
-| 002 | <br>**Pregunta:**<br>El valor exacto de $\tan\left(\sin^{-1}\left(\frac{1}{2}\right)\right)$ es:<br><br>A. $\sqrt{3}$  <br>B. $\frac{\sqrt{3}}{3}$  <br>C. $\frac{1}{2}$  <br>D. $\frac{\sqrt{2}}{2}$<br><br>**Respuesta correcta:** B<br><br>**Retroalimentación:**<br>Primero evaluamos $\theta = \sin^{-1}\left(\frac{1}{2}\right) = 30^\circ$. Luego calculamos $\tan(30^\circ) = \frac{\sqrt{3}}{3}$. Esto se obtiene del triángulo 30-60-90 donde:<br>$$\tan(30^\circ) = \frac{\text{opuesto}}{\text{adyacente}} = \frac{1}{\sqrt{3}} = \frac{\sqrt{3}}{3}$$ | B |
-| 003 | <br>**Pregunta:**<br>Un triángulo tiene lados de 5 u y 8 u con ángulo incluido de $60^\circ$. Su área es:<br><br>A. $20\ \text{u}^2$  <br>B. $10\ \text{u}^2$  <br>C. $10\sqrt{3}\ \text{u}^2$  <br>D. $5\sqrt{3}\ \text{u}^2$<br><br>**Respuesta correcta:** C<br><br>**Retroalimentación:**<br>El área se calcula con:<br>$A = \frac{1}{2}ab\sin\theta = \frac{1}{2} \times 5 \times 8 \times \sin(60^\circ) = 20 \times \frac{\sqrt{3}}{2} = 10\sqrt{3}\ \text{u}^2$<br><br>Donde $\sin(60^\circ) = \frac{\sqrt{3}}{2}$. | C |
-| 004 | <br>**Pregunta:**<br>El valor exacto de $\sin\left(\frac{\pi}{2}\right) + \cos\left(\frac{\pi}{3}\right)$ es:<br><br>A. 1.5  <br>B. $\frac{1+\sqrt{3}}{2}$  <br>C. $\frac{3}{2}$  <br>D. $\sqrt{2}$<br><br>**Respuesta correcta:** A. 1.5<br><br>**Retroalimentación:**<br>$\sin\left(\frac{\pi}{2}\right) = 1$ y $\cos\left(\frac{\pi}{3}\right) = 0.5$. Por lo tanto, la suma es $1 + 0.5 = 1.5$. Las otras opciones corresponden a combinaciones incorrectas de valores trigonométricos. | A |
+| 001 | <br>Si $\theta = \tan^{-1}\left(\frac{\sqrt{1 - x^2}}{x}\right)$, entonces la expresión $\cot\theta$ se puede simplificar a $\underline{\hspace{3cm}}$.<br><br>1. $\frac{x}{\sqrt{1 - x^2}}$<br>2. $\frac{\sqrt{1 - x^2}}{x}$<br>3. $\frac{x}{\sqrt{1 + x^2}}$<br>4. $\sqrt{1 - x^2}$<br><br>**Respuesta correcta:** $\frac{x}{\sqrt{1 - x^2}}$<br><br>**Retroalimentación:**<br>Al considerar $\theta = \tan^{-1}\left(\frac{\sqrt{1 - x^2}}{x}\right)$, tenemos que $\tan\theta = \frac{\sqrt{1 - x^2}}{x}$. Como $\cot\theta$ es el recíproco de $\tan\theta$, entonces $\cot\theta = \frac{x}{\sqrt{1 - x^2}}$. | $\frac{x}{\sqrt{1 - x^2}}$ |
+| 002 | <br>Complete la siguiente afirmación sobre funciones trigonométricas inversas:<br><br>La función \(\tan^{-1}x\) tiene como dominio __________ y como rango __________, lo que la hace útil para encontrar ángulos en triángulos rectángulos.<br><br>1. Todos los reales, $\left(-\frac{\pi}{2}, \frac{\pi}{2}\right)$<br>2. \([-1, 1]\), \([0, \pi]\)<br>3. Números positivos, \(\left(0, \frac{\pi}{2}\right)\)<br><br>**Respuesta correcta:** Todos los reales, $\left(-\frac{\pi}{2}, \frac{\pi}{2}\right)$<br><br>**Retroalimentación:**  <br>La función \(\tan^{-1}x\) acepta cualquier valor real (dominio) y devuelve ángulos entre \(-\frac{\pi}{2}\) y \(\frac{\pi}{2}\) (rango). Esta restricción asegura que sea una función biyectiva, ideal para resolver triángulos rectángulos donde los ángulos agudos están en este intervalo. | Todos los reales, $\left(-\frac{\pi}{2}, \frac{\pi}{2}\right)$ |
+| 003 | <br>Una rueda gira a 40 rpm (revoluciones por minuto). Para convertir esta velocidad angular a radianes por segundo, primero convertimos las revoluciones a radianes (1 rev = $2\pi$ rad) y los minutos a segundos. La velocidad angular en rad/s es $\underline{\hspace{3cm}}$.<br><br>1. $\frac{4\pi}{3}$ rad/s<br>2. $\frac{2\pi}{3}$ rad/s<br>3. $\frac{80\pi}{60}$ rad/s<br>4. $40\pi$ rad/s<br><br>**Respuesta correcta:** $\frac{4\pi}{3}$ rad/s<br><br>**Retroalimentación:**<br>40 rpm = $\frac{40 \times 2\pi}{60}$ rad/s = $\frac{80\pi}{60}$ rad/s = $\frac{4\pi}{3}$ rad/s. Se simplifica dividiendo numerador y denominador por 20. | $\frac{4\pi}{3}$ rad/s |
+| 004 | <br>Para evaluar la expresión $\sin(\cos^{-1}x)$, podemos construir un triángulo rectángulo donde el cateto adyacente es $x$ y la hipotenusa es 1. Usando el teorema de Pitágoras, el cateto opuesto sería $\sqrt{1 - x^2}$, por lo que $\sin(\cos^{-1}x) = \underline{\hspace{3cm}}$.<br><br>1. $\sqrt{1 - x^2}$<br>2. $x$<br>3. $\sqrt{1 + x^2}$<br>4. $\frac{x}{\sqrt{1 - x^2}}$<br><br>**Respuesta correcta:** $\sqrt{1 - x^2}$<br><br>**Retroalimentación:**<br>Al considerar $\theta = \cos^{-1}x$, tenemos que $\cos\theta = x$. Construyendo el triángulo rectángulo correspondiente con hipotenusa 1 y cateto adyacente $x$, el cateto opuesto es $\sqrt{1 - x^2}$ por el teorema de Pitágoras, por lo que $\sin\theta = \sqrt{1 - x^2}$. | $\sqrt{1 - x^2}$ |
