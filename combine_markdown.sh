@@ -9,8 +9,8 @@
 #   archivo_salida = combined_markdown.md
 
 # Configuración inicial con valores por defecto
-DIR="markdown/unit2"
-CATEGORY="CON"
+DIR="markdown/unit1"
+CATEGORY="APL"
 TYPE="PRB"
 OUTPUT_FILE="combined_markdown.md"
 
