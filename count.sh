@@ -4,7 +4,7 @@
 # Uso: bash count.sh -m [category|type|reference] [-v "valor a buscar"]
 
 # Configuración inicial
-MARKDOWN_DIR="markdown/unit1"
+MARKDOWN_DIR="markdown"
 declare -A meta_counts
 total_files=0
 meta_type="type"  # Valor por defecto
