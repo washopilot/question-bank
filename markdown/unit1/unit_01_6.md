@@ -10,7 +10,7 @@ Si $\sin t = \frac{3}{5}$ y $t$ está en el segundo cuadrante, ¿cuál es el val
 A. $-\frac{4}{3}$  
 B. $-\frac{3}{4}$  
 C. $\frac{4}{3}$  
-D. $\frac{3}{4}$  
+D. $\frac{3}{4}$ 
 
 **Respuesta correcta:** A
 **Retroalimentación:**  
