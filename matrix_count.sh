@@ -10,7 +10,7 @@
 #	18	12	6	3	10	2	0	51
 
 # Configuración inicial
-MARKDOWN_DIR="markdown/unit2"
+MARKDOWN_DIR="markdown/unit2/more"
 declare -A matrix_counts
 declare -a row_headers=("D" "OMRU" "OMVR" "CA" "PRB")
 declare -a col_headers=("CON" "COM" "ANA" "SIN" "APL" "EVA" "CRE")

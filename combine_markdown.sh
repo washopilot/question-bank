@@ -9,9 +9,9 @@
 #   archivo_salida = combined_markdown.md
 
 # Configuración inicial con valores por defecto
-DIR="markdown/unit2"
-CATEGORY="COM"
-TYPE="OMRU"
+DIR="markdown/unit2/more"
+CATEGORY="APL"
+TYPE="PRB"
 OUTPUT_FILE="combined_markdown.md"
 
 # Procesar argumentos
@@ -86,7 +86,7 @@ for file in "${valid_files[@]}"; do
     file_answer=$(grep -m1 -i "^answer:" "$file" | sed 's/^[^:]*:[[:space:]]*//' | sed -e 's/[[:space:]]*$//')
     content=$(sed -n '/^---$/,$p' "$file" | sed '1,2d' | grep -vE '^(type|reference|answer):' | grep -v '^---$')
 
-    counter=$(printf "%03d" $((counter + 1)))
+    counter=$(printf "%03d" $((10#$counter + 1)))
     echo "| $counter | $content | $file_answer |" | sed ':a;N;$!ba;s/\n/<br>/g' >> "$OUTPUT_FILE"
 done
 
